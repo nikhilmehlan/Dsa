@@ -45,15 +45,10 @@ To get started with this repository:
 3. Run the provided code and review the results.
 
 
-
 ## 📫 Contact
 
-For any questions or feedback, feel free to contact me via nikhilmehlan1234@gmail.com(mailto:nikhilmehlan1234@gmail.com) or open an issue on GitHub.
+For any questions or feedback, feel free to contact me via [nikhilmehlan1234@gmail.com](mailto:nikhilmehlan1234@gmail.com) or open an issue on GitHub.
 
 ---
 
 Happy coding!
-
----
-
-Feel free to customize it to better fit your repository and personal style.
