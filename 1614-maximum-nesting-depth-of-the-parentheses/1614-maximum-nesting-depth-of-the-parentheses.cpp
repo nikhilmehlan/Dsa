@@ -5,18 +5,12 @@ public:
         int maxi = 0;
         for (char c : s) {
             if (c == '(') {
-                if (balance > 0) {
-                    balance++;
-                    maxi = max(balance, maxi);
+                balance++;
                 }
-                if (balance == 0) {
-                    balance++;
-                    maxi = max(balance, maxi);
-                }
-            }
             if (c == ')') {
                 balance--;
             }
+            maxi=max(maxi,balance);
         }
         return maxi;
     }
