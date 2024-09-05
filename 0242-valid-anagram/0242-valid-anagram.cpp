@@ -4,11 +4,14 @@ public:
         if(s.length()!=t.length()){
             return false;
         }
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        if(s==t){
-            return true;
+        vector<int> check(26,0);
+        for(int i=0;i<s.length();i++){
+            check[s[i]-'a']++;
+            check[t[i]-'a']--;
         }
-        return false;
+        for(int count:check){
+            if(count!=0) return false;
+        }
+        return true;
     }
 };
