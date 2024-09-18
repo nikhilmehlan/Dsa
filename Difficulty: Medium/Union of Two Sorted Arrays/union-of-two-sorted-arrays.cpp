@@ -13,7 +13,7 @@ class Solution{
     {
         //Your code here
         //return vector with correct order of elements
-        int i=0;
+         int i=0;
         int j=0;
          vector<int> res;
         while(i<n && j<m){
@@ -44,21 +44,6 @@ class Solution{
             }
             return res;
         }
-        
-        
-        //brute approah
-        // set<int> st;
-        // for(int i=0;i<n;i++){
-        //     st.insert(arr1[i]);
-        // }
-        // for(int i=0;i<m;i++){
-        //     st.insert(arr2[i]);
-        // }
-        // vector<int> res;
-        // for(auto it:st){
-        //     res.push_back(it);
-        // }
-        // return res;
     
 };
 
