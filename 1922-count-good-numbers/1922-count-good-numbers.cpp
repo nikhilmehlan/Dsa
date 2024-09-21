@@ -3,15 +3,15 @@ public:
     const int MOD = 1e9 + 7;
     
     long long modPow(long long x, long long n) {
-        long long ans = 1;
-        while (n > 0) {
-            if (n % 2 == 1) { // If n is odd, multiply x with the result
-                ans = (ans * x) % MOD;
-            }
-            x = (x * x) % MOD; // Square the base
-            n = n / 2;         // Reduce n by half
+        if(n==0) return 1;
+        long long temp=modPow(x,n/2);
+        
+        if(n%2==0){
+            return (temp*temp)%MOD;
         }
-        return ans % MOD;
+        else{
+            return (temp*temp*x)%MOD;
+        }
     }
     
     int countGoodNumbers(long long n) {
