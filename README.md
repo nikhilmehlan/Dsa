@@ -2,6 +2,7 @@
 
 Welcome to my Data Structures and Algorithms (DSA) repository! This repository is a personal project where I document and solve various problems related to data structures and algorithms. It's a reflection of my journey in mastering these fundamental concepts and enhancing my problem-solving skills.
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/nikhilmehlan)
 ## 📚 Repository Contents
 
 - **Problems**: A collection of solved problems categorized by data structures and algorithms.
