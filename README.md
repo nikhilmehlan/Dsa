@@ -66,12 +66,14 @@ Happy coding!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilmehlan/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilmehlan/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Happy coding!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilmehlan/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
