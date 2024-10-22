@@ -60,6 +60,7 @@ Happy coding!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
 ## String
 |  |
 | ------- |
@@ -68,8 +69,13 @@ Happy coding!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
