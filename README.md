@@ -62,12 +62,14 @@ Happy coding!
 | [0051-n-queens](https://github.com/nikhilmehlan/Dsa/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilmehlan/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,8 +90,18 @@ Happy coding!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilmehlan/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
