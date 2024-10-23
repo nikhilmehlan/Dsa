@@ -91,6 +91,7 @@ Happy coding!
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,5 +114,10 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
