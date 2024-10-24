@@ -63,6 +63,7 @@ Happy coding!
 | [0051-n-queens](https://github.com/nikhilmehlan/Dsa/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/nikhilmehlan/Dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 ## String
 |  |
@@ -92,6 +93,7 @@ Happy coding!
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikhilmehlan/Dsa/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/nikhilmehlan/Dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilmehlan/Dsa/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Hash Table
