@@ -59,6 +59,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nikhilmehlan/Dsa/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/nikhilmehlan/Dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nikhilmehlan/Dsa/tree/master/0078-subsets) |
@@ -132,5 +133,6 @@ Happy coding!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nikhilmehlan/Dsa/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
