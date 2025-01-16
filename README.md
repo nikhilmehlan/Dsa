@@ -125,12 +125,14 @@ Happy coding!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikhilmehlan/Dsa/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/nikhilmehlan/Dsa/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nikhilmehlan/Dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
