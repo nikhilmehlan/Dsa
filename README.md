@@ -67,6 +67,7 @@ Happy coding!
 | [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nikhilmehlan/Dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
+| [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
 ## String
 |  |
@@ -124,6 +125,7 @@ Happy coding!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikhilmehlan/Dsa/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
 ## Recursion
@@ -135,4 +137,12 @@ Happy coding!
 | ------- |
 | [0035-search-insert-position](https://github.com/nikhilmehlan/Dsa/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
