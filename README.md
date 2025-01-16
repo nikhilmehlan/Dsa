@@ -74,6 +74,7 @@ Happy coding!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilmehlan/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
@@ -156,6 +157,7 @@ Happy coding!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilmehlan/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmehlan/Dsa/tree/master/0232-implement-queue-using-stacks) |
 ## Design
