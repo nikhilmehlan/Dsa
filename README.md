@@ -69,6 +69,7 @@ Happy coding!
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Happy coding!
 | [0136-single-number](https://github.com/nikhilmehlan/Dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilmehlan/Dsa/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,4 +149,8 @@ Happy coding!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
