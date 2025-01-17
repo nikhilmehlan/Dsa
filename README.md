@@ -72,6 +72,7 @@ Happy coding!
 | [0503-next-greater-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/nikhilmehlan/Dsa/tree/master/2792-neighboring-bitwise-xor) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Happy coding!
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilmehlan/Dsa/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/nikhilmehlan/Dsa/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
