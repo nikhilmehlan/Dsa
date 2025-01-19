@@ -69,6 +69,7 @@ Happy coding!
 | [0136-single-number](https://github.com/nikhilmehlan/Dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
@@ -99,6 +100,7 @@ Happy coding!
 | ------- |
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -192,4 +194,12 @@ Happy coding!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
