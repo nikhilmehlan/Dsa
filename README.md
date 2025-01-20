@@ -80,6 +80,7 @@ Happy coding!
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/nikhilmehlan/Dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/nikhilmehlan/Dsa/tree/master/2792-neighboring-bitwise-xor) |
 ## String
 |  |
@@ -109,6 +110,7 @@ Happy coding!
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nikhilmehlan/Dsa/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Happy coding!
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 ## Dynamic Programming
 |  |
 | ------- |
