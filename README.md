@@ -78,6 +78,7 @@ Happy coding!
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
+| [2145-grid-game](https://github.com/nikhilmehlan/Dsa/tree/master/2145-grid-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/nikhilmehlan/Dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
@@ -110,6 +111,7 @@ Happy coding!
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nikhilmehlan/Dsa/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
+| [2145-grid-game](https://github.com/nikhilmehlan/Dsa/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 ## Bit Manipulation
 |  |
@@ -265,4 +267,8 @@ Happy coding!
 | ------- |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/nikhilmehlan/Dsa/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
