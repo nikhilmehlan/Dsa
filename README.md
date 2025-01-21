@@ -129,6 +129,7 @@ Happy coding!
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 ## Dynamic Programming
@@ -201,6 +202,7 @@ Happy coding!
 | [0155-min-stack](https://github.com/nikhilmehlan/Dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilmehlan/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmehlan/Dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/nikhilmehlan/Dsa/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -257,8 +259,10 @@ Happy coding!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
