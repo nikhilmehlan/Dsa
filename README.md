@@ -77,6 +77,7 @@ Happy coding!
 | [0503-next-greater-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
+| [0940-fruit-into-baskets](https://github.com/nikhilmehlan/Dsa/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilmehlan/Dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -137,6 +138,7 @@ Happy coding!
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
+| [0940-fruit-into-baskets](https://github.com/nikhilmehlan/Dsa/tree/master/0940-fruit-into-baskets) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 ## Dynamic Programming
 |  |
@@ -255,6 +257,7 @@ Happy coding!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilmehlan/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
+| [0940-fruit-into-baskets](https://github.com/nikhilmehlan/Dsa/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilmehlan/Dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
