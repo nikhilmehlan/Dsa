@@ -71,6 +71,7 @@ Happy coding!
 | [0136-single-number](https://github.com/nikhilmehlan/Dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
@@ -255,6 +256,7 @@ Happy coding!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 ## Simulation
@@ -309,4 +311,16 @@ Happy coding!
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
