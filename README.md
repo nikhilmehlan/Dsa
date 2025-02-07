@@ -73,6 +73,7 @@ Happy coding!
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0503-next-greater-element-ii) |
@@ -146,6 +147,7 @@ Happy coding!
 | [0076-minimum-window-substring](https://github.com/nikhilmehlan/Dsa/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nikhilmehlan/Dsa/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilmehlan/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
@@ -266,6 +268,7 @@ Happy coding!
 | [0023-merge-k-sorted-lists](https://github.com/nikhilmehlan/Dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nikhilmehlan/Dsa/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
@@ -326,6 +329,7 @@ Happy coding!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
 ## Divide and Conquer
@@ -333,16 +337,19 @@ Happy coding!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilmehlan/Dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -359,4 +366,8 @@ Happy coding!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
