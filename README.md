@@ -62,6 +62,7 @@ Happy coding!
 | [0035-search-insert-position](https://github.com/nikhilmehlan/Dsa/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/nikhilmehlan/Dsa/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/nikhilmehlan/Dsa/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/nikhilmehlan/Dsa/tree/master/0078-subsets) |
@@ -167,6 +168,7 @@ Happy coding!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikhilmehlan/Dsa/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/nikhilmehlan/Dsa/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
@@ -288,6 +290,7 @@ Happy coding!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikhilmehlan/Dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/nikhilmehlan/Dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/nikhilmehlan/Dsa/tree/master/0455-assign-cookies) |
