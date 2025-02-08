@@ -63,6 +63,7 @@ Happy coding!
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/nikhilmehlan/Dsa/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/nikhilmehlan/Dsa/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/nikhilmehlan/Dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilmehlan/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -166,6 +167,7 @@ Happy coding!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/nikhilmehlan/Dsa/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/nikhilmehlan/Dsa/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
@@ -286,6 +288,7 @@ Happy coding!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nikhilmehlan/Dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/nikhilmehlan/Dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/nikhilmehlan/Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
