@@ -228,6 +228,7 @@ Happy coding!
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilmehlan/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nikhilmehlan/Dsa/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/nikhilmehlan/Dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilmehlan/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmehlan/Dsa/tree/master/0232-implement-queue-using-stacks) |
@@ -387,6 +388,7 @@ Happy coding!
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -395,9 +397,14 @@ Happy coding!
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
