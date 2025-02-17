@@ -163,6 +163,7 @@ Happy coding!
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmehlan/Dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -291,6 +292,7 @@ Happy coding!
 | [0199-binary-tree-right-side-view](https://github.com/nikhilmehlan/Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -416,6 +418,7 @@ Happy coding!
 | [0543-diameter-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -439,6 +442,7 @@ Happy coding!
 | [0543-diameter-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bucket Sort
 |  |
@@ -459,5 +463,6 @@ Happy coding!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
