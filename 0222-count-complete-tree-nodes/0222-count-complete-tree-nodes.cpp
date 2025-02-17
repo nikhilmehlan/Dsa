@@ -1,16 +1,35 @@
 class Solution {
 public:
-    void helper(int &cnt, TreeNode* root) {  // Pass cnt by reference
-        if (root == nullptr) return;  // Base case
+    int countNodes(TreeNode* root) {
+        if (!root) return 0; // Base case
 
-        cnt++;  // Count the current node
-        helper(cnt, root->left);  // Recur for left subtree
-        helper(cnt, root->right); // Recur for right subtree
+        int leftHeight = findLeftHeight(root);
+        int rightHeight = findRightHeight(root);
+
+        // If the left and right heights are the same, it's a perfect binary tree
+        if (leftHeight == rightHeight) 
+            return (1 << leftHeight) - 1;
+
+        // Otherwise, count recursively
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 
-    int countNodes(TreeNode* root) {
-        int cnt = 0;
-        helper(cnt, root);
-        return cnt;
+private:
+    int findLeftHeight(TreeNode* node) {
+        int height = 0;
+        while (node) {
+            height++;
+            node = node->left;
+        }
+        return height;
+    }
+
+    int findRightHeight(TreeNode* node) {
+        int height = 0;
+        while (node) {
+            height++;
+            node = node->right;
+        }
+        return height;
     }
 };
