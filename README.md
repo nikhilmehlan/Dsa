@@ -59,6 +59,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilmehlan/Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhilmehlan/Dsa/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
@@ -216,6 +217,7 @@ Happy coding!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilmehlan/Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhilmehlan/Dsa/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
