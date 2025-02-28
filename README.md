@@ -247,6 +247,7 @@ Happy coding!
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/nikhilmehlan/Dsa/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/nikhilmehlan/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilmehlan/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmehlan/Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/nikhilmehlan/Dsa/tree/master/0402-remove-k-digits) |
@@ -263,6 +264,7 @@ Happy coding!
 | ------- |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/nikhilmehlan/Dsa/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/nikhilmehlan/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilmehlan/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmehlan/Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0295-find-median-from-data-stream) |
@@ -437,6 +439,7 @@ Happy coding!
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/nikhilmehlan/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilmehlan/Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -457,6 +460,7 @@ Happy coding!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/nikhilmehlan/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0450-delete-node-in-a-bst) |
@@ -481,6 +485,7 @@ Happy coding!
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/nikhilmehlan/Dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilmehlan/Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -524,4 +529,8 @@ Happy coding!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nikhilmehlan/Dsa/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
