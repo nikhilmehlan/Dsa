@@ -170,6 +170,7 @@ Happy coding!
 | [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmehlan/Dsa/tree/master/0940-fruit-into-baskets) |
@@ -298,6 +299,7 @@ Happy coding!
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikhilmehlan/Dsa/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@ Happy coding!
 | [0199-binary-tree-right-side-view](https://github.com/nikhilmehlan/Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -448,6 +451,7 @@ Happy coding!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -464,6 +468,7 @@ Happy coding!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -494,6 +499,7 @@ Happy coding!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -525,6 +531,7 @@ Happy coding!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
