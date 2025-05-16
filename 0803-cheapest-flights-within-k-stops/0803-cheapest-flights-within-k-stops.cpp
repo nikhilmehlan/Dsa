@@ -23,7 +23,7 @@ public:
                 int adjnode=itr.first;
                 int edw=itr.second;
 
-                if(dis+edw<dist[adjnode] && stops<=k){
+                if(dis+edw<dist[adjnode]){
                     dist[adjnode]=dis+edw;
                     q.push({stops+1,{adjnode,dist[adjnode]}});
                 }
