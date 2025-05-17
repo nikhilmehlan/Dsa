@@ -68,6 +68,7 @@ Happy coding!
 | [0055-jump-game](https://github.com/nikhilmehlan/Dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nikhilmehlan/Dsa/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nikhilmehlan/Dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilmehlan/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -323,6 +324,7 @@ Happy coding!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikhilmehlan/Dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -453,6 +455,7 @@ Happy coding!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
