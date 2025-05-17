@@ -92,6 +92,7 @@ Happy coding!
 | [0503-next-greater-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhilmehlan/Dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
@@ -131,6 +132,7 @@ Happy coding!
 | [0402-remove-k-digits](https://github.com/nikhilmehlan/Dsa/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilmehlan/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilmehlan/Dsa/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Backtracking
@@ -192,6 +194,7 @@ Happy coding!
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmehlan/Dsa/tree/master/0940-fruit-into-baskets) |
@@ -349,6 +352,7 @@ Happy coding!
 | [0547-number-of-provinces](https://github.com/nikhilmehlan/Dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhilmehlan/Dsa/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikhilmehlan/Dsa/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nikhilmehlan/Dsa/tree/master/0801-is-graph-bipartite) |
@@ -464,6 +468,7 @@ Happy coding!
 | [0435-non-overlapping-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nikhilmehlan/Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Quickselect
@@ -592,6 +597,7 @@ Happy coding!
 | [0547-number-of-provinces](https://github.com/nikhilmehlan/Dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhilmehlan/Dsa/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikhilmehlan/Dsa/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nikhilmehlan/Dsa/tree/master/0801-is-graph-bipartite) |
@@ -614,6 +620,7 @@ Happy coding!
 | [0130-surrounded-regions](https://github.com/nikhilmehlan/Dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nikhilmehlan/Dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nikhilmehlan/Dsa/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/nikhilmehlan/Dsa/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/nikhilmehlan/Dsa/tree/master/1073-number-of-enclaves) |
