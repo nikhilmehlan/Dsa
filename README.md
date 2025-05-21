@@ -79,6 +79,7 @@ Happy coding!
 | [0090-subsets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/nikhilmehlan/Dsa/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/nikhilmehlan/Dsa/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/nikhilmehlan/Dsa/tree/master/0136-single-number) |
@@ -231,6 +232,7 @@ Happy coding!
 | [0064-minimum-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nikhilmehlan/Dsa/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/nikhilmehlan/Dsa/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
