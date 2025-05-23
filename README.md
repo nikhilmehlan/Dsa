@@ -92,6 +92,7 @@ Happy coding!
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nikhilmehlan/Dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
@@ -245,6 +246,7 @@ Happy coding!
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/nikhilmehlan/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilmehlan/Dsa/tree/master/0678-valid-parenthesis-string) |
