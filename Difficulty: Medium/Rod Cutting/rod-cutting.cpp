@@ -1,50 +1,26 @@
-//{ Driver Code Starts
-// Initial Template for C++
-
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-// User function Template for C++
-
 class Solution {
   public:
     int cutRod(vector<int> &price) {
-        // code here
-    int n=price.size();
-    vector<int> dp(n+1,0);
-    
-    for(int i=1;i<=n;i++){
-        for(int j=0;j<i;j++){
-            dp[i]=max(dp[i],price[j]+dp[i-(j+1)]);
+        int n = price.size();
+        vector<vector<int>> dp(n, vector<int>(n + 1, 0));
+
+        // Correct base case: only using pieces of length 1 (index 0)
+        for(int l = 0; l <= n; l++) {
+            dp[0][l] = l * price[0];
         }
-    }
-    return dp[n];
+
+        for(int i = 1; i < n; i++) {
+            int rodLength = i + 1;
+            for(int l = 0; l <= n; l++) {
+                int notpick = dp[i - 1][l];
+                int pick = INT_MIN;
+                if (rodLength <= l) {
+                    pick = price[i] + dp[i][l - rodLength];
+                }
+                dp[i][l] = max(pick, notpick);
+            }
+        }
+
+        return dp[n - 1][n];
     }
 };
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    scanf("%d ", &t);
-    while (t--) {
-
-        vector<int> a;
-        string input;
-        getline(cin, input);
-        stringstream ss(input);
-        int number;
-        while (ss >> number) {
-            a.push_back(number);
-        }
-
-        Solution ob;
-
-        cout << ob.cutRod(a) << endl;
-        cout << "~" << endl;
-    }
-    return 0;
-}
-// } Driver Code Ends
