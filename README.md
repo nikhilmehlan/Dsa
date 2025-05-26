@@ -244,6 +244,7 @@ Happy coding!
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
@@ -283,6 +284,7 @@ Happy coding!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhilmehlan/Dsa/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilmehlan/Dsa/tree/master/1559-cherry-pickup-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/nikhilmehlan/Dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilmehlan/Dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -297,6 +299,7 @@ Happy coding!
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhilmehlan/Dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Math
 |  |
 | ------- |
@@ -529,6 +532,7 @@ Happy coding!
 | [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Divide and Conquer
 |  |
@@ -729,6 +733,7 @@ Happy coding!
 | [1300-critical-connections-in-a-network](https://github.com/nikhilmehlan/Dsa/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhilmehlan/Dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhilmehlan/Dsa/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilmehlan/Dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -736,6 +741,7 @@ Happy coding!
 | [0207-course-schedule](https://github.com/nikhilmehlan/Dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/nikhilmehlan/Dsa/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilmehlan/Dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
