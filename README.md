@@ -457,6 +457,7 @@ Happy coding!
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhilmehlan/Dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilmehlan/Dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -622,6 +623,7 @@ Happy coding!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilmehlan/Dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -719,6 +721,7 @@ Happy coding!
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhilmehlan/Dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilmehlan/Dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Iterator
 |  |
 | ------- |
