@@ -125,6 +125,7 @@ Happy coding!
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/nikhilmehlan/Dsa/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilmehlan/Dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -164,6 +165,7 @@ Happy coding!
 | [0583-delete-operation-for-two-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilmehlan/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
+| [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilmehlan/Dsa/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -249,6 +251,7 @@ Happy coding!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
+| [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -293,6 +296,7 @@ Happy coding!
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilmehlan/Dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilmehlan/Dsa/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -422,6 +426,7 @@ Happy coding!
 | [0295-find-median-from-data-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikhilmehlan/Dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Breadth-First Search
 |  |
@@ -579,6 +584,7 @@ Happy coding!
 | [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Quickselect
