@@ -131,6 +131,7 @@ Happy coding!
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilmehlan/Dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilmehlan/Dsa/tree/master/1559-cherry-pickup-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/nikhilmehlan/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
 | [2145-grid-game](https://github.com/nikhilmehlan/Dsa/tree/master/2145-grid-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -305,6 +306,7 @@ Happy coding!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhilmehlan/Dsa/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilmehlan/Dsa/tree/master/1559-cherry-pickup-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/nikhilmehlan/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/nikhilmehlan/Dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilmehlan/Dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -590,6 +592,7 @@ Happy coding!
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/nikhilmehlan/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Quickselect
