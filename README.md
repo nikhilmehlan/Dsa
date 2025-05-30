@@ -746,6 +746,7 @@ Happy coding!
 | [1300-critical-connections-in-a-network](https://github.com/nikhilmehlan/Dsa/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhilmehlan/Dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilmehlan/Dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -783,6 +784,7 @@ Happy coding!
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhilmehlan/Dsa/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilmehlan/Dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
