@@ -1,36 +1,85 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+using namespace std;
+
+class TrieNode {
+public:
+    TrieNode* children[2];
+    TrieNode() {
+        children[0] = children[1] = nullptr;
+    }
+};
+
+class Trie {
+public:
+    TrieNode* root;
+    
+    Trie() {
+        root = new TrieNode();
+    }
+
+    void insert(int num) {
+        TrieNode* node = root;
+        for (int i = 31; i >= 0; --i) {
+            int bit = (num >> i) & 1;
+            if (!node->children[bit])
+                node->children[bit] = new TrieNode();
+            node = node->children[bit];
+        }
+    }
+
+    int getMaxXOR(int num) {
+        TrieNode* node = root;
+        if (!node->children[0] && !node->children[1])
+            return -1; // empty trie
+
+        int maxXor = 0;
+        for (int i = 31; i >= 0; --i) {
+            int bit = (num >> i) & 1;
+            int toggledBit = 1 - bit;
+            if (node->children[toggledBit]) {
+                maxXor |= (1 << i);
+                node = node->children[toggledBit];
+            } else {
+                node = node->children[bit];
+            }
+        }
+        return maxXor;
+    }
+};
+
 class Solution {
 public:
     vector<int> maximizeXor(vector<int>& nums, vector<vector<int>>& queries) {
-        const int n = nums.size(), q = queries.size();
-        vector<int> ans(q, -1);
         sort(nums.begin(), nums.end());
+        int n = queries.size();
         
-        for (int i = 0; i < q; i++) {
-            const int x = queries[i][0], m = queries[i][1];
-            if (m < nums[0]) continue;
-            
-            int end = upper_bound(nums.begin(), nums.end(), m) - nums.begin();
-            int start = 0;
-            
-            int k = 0, cur = 0;
-            for (int bit = 31; bit >= 0; bit--) {
-                if (x & (1 << bit)) { // hope A[i] this bit == 0
-                    if (!(nums[start] & (1 << bit))) {
-                        k |= 1 << bit;
-                        end = lower_bound(nums.begin() + start, nums.begin() + end, cur | (1 << bit)) - nums.begin();
-                    } else {
-                        cur |= 1 << bit;
-                    }
-                } else { // hope: A[i] this bit == 1
-                    if (start <= end - 1 && (nums[end - 1] & (1 << bit))) {
-                        k |= 1 << bit;
-                        cur |= 1 << bit;
-                        start = lower_bound(nums.begin() + start, nums.begin() + end, cur) - nums.begin();
-                    }
-                }
-            }
-            ans[i] = k;
+        vector<vector<int>> offlineQueries; // [xi, mi, index]
+        for (int i = 0; i < n; ++i) {
+            offlineQueries.push_back({queries[i][0], queries[i][1], i});
         }
-        return ans;
+
+        sort(offlineQueries.begin(), offlineQueries.end(), [](auto &a, auto &b) {
+            return a[1] < b[1]; // sort by mi
+        });
+
+        vector<int> result(n, -1);
+        Trie trie;
+        int idx = 0;
+        for (auto &q : offlineQueries) {
+            int x = q[0], m = q[1], qIdx = q[2];
+
+            // Insert eligible nums into trie
+            while (idx < nums.size() && nums[idx] <= m) {
+                trie.insert(nums[idx]);
+                idx++;
+            }
+
+            // If trie is not empty, compute max XOR
+            result[qIdx] = trie.getMaxXOR(x);
+        }
+
+        return result;
     }
 };
