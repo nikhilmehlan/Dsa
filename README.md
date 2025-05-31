@@ -120,6 +120,7 @@ Happy coding!
 | [0890-lemonade-change](https://github.com/nikhilmehlan/Dsa/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmehlan/Dsa/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/nikhilmehlan/Dsa/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
@@ -210,6 +211,7 @@ Happy coding!
 | [0733-flood-fill](https://github.com/nikhilmehlan/Dsa/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/nikhilmehlan/Dsa/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/nikhilmehlan/Dsa/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/nikhilmehlan/Dsa/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nikhilmehlan/Dsa/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nikhilmehlan/Dsa/tree/master/1073-number-of-enclaves) |
@@ -480,6 +482,7 @@ Happy coding!
 | [0820-find-eventual-safe-states](https://github.com/nikhilmehlan/Dsa/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/nikhilmehlan/Dsa/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/nikhilmehlan/Dsa/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/nikhilmehlan/Dsa/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nikhilmehlan/Dsa/tree/master/1073-number-of-enclaves) |
