@@ -176,6 +176,7 @@ Happy coding!
 | [0583-delete-operation-for-two-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilmehlan/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilmehlan/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilmehlan/Dsa/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
@@ -411,6 +412,7 @@ Happy coding!
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/nikhilmehlan/Dsa/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilmehlan/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
 | [2227-sum-of-subarray-ranges](https://github.com/nikhilmehlan/Dsa/tree/master/2227-sum-of-subarray-ranges) |
@@ -536,6 +538,7 @@ Happy coding!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilmehlan/Dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/nikhilmehlan/Dsa/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilmehlan/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
