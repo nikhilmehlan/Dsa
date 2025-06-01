@@ -361,6 +361,7 @@ Happy coding!
 | [0368-largest-divisible-subset](https://github.com/nikhilmehlan/Dsa/tree/master/0368-largest-divisible-subset) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikhilmehlan/Dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -384,6 +385,7 @@ Happy coding!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
+| [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -832,6 +834,7 @@ Happy coding!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikhilmehlan/Dsa/tree/master/0062-unique-paths) |
+| [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
 ## Ordered Set
 |  |
 | ------- |
