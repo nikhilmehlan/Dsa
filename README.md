@@ -186,6 +186,7 @@ Happy coding!
 | [1250-longest-common-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/nikhilmehlan/Dsa/tree/master/3194-find-words-containing-character) |
@@ -858,12 +859,15 @@ Happy coding!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhilmehlan/Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/nikhilmehlan/Dsa/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
