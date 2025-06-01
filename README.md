@@ -169,6 +169,7 @@ Happy coding!
 | [0132-palindrome-partitioning-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/nikhilmehlan/Dsa/tree/master/0402-remove-k-digits) |
@@ -855,5 +856,14 @@ Happy coding!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhilmehlan/Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/nikhilmehlan/Dsa/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
