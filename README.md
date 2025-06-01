@@ -188,6 +188,7 @@ Happy coding!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2577-count-palindromic-subsequences](https://github.com/nikhilmehlan/Dsa/tree/master/2577-count-palindromic-subsequences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/nikhilmehlan/Dsa/tree/master/3194-find-words-containing-character) |
 ## Backtracking
@@ -335,6 +336,7 @@ Happy coding!
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/nikhilmehlan/Dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilmehlan/Dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2577-count-palindromic-subsequences](https://github.com/nikhilmehlan/Dsa/tree/master/2577-count-palindromic-subsequences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Trie
