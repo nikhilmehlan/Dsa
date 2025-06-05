@@ -181,6 +181,7 @@ Happy coding!
 | [0686-repeated-string-match](https://github.com/nikhilmehlan/Dsa/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilmehlan/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmehlan/Dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilmehlan/Dsa/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
@@ -800,6 +801,7 @@ Happy coding!
 | [0801-is-graph-bipartite](https://github.com/nikhilmehlan/Dsa/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/nikhilmehlan/Dsa/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmehlan/Dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/nikhilmehlan/Dsa/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhilmehlan/Dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
