@@ -87,6 +87,7 @@ Happy coding!
 | [0136-single-number](https://github.com/nikhilmehlan/Dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nikhilmehlan/Dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/nikhilmehlan/Dsa/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nikhilmehlan/Dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/nikhilmehlan/Dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
@@ -372,6 +373,7 @@ Happy coding!
 | [0050-powx-n](https://github.com/nikhilmehlan/Dsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nikhilmehlan/Dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhilmehlan/Dsa/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/nikhilmehlan/Dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
@@ -484,6 +486,7 @@ Happy coding!
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/nikhilmehlan/Dsa/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikhilmehlan/Dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
