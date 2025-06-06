@@ -328,6 +328,7 @@ Happy coding!
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilmehlan/Dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0967-minimum-falling-path-sum) |
+| [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/nikhilmehlan/Dsa/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilmehlan/Dsa/tree/master/1170-shortest-common-supersequence) |
@@ -356,6 +357,7 @@ Happy coding!
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhilmehlan/Dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Math
 |  |
@@ -370,6 +372,7 @@ Happy coding!
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/nikhilmehlan/Dsa/tree/master/0368-largest-divisible-subset) |
+| [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikhilmehlan/Dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
@@ -379,6 +382,7 @@ Happy coding!
 | [0044-wildcard-matching](https://github.com/nikhilmehlan/Dsa/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/nikhilmehlan/Dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
 ## Binary Search
 |  |
