@@ -199,6 +199,7 @@ Happy coding!
 | [2577-count-palindromic-subsequences](https://github.com/nikhilmehlan/Dsa/tree/master/2577-count-palindromic-subsequences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/nikhilmehlan/Dsa/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilmehlan/Dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Backtracking
 |  |
@@ -292,6 +293,7 @@ Happy coding!
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Happy coding!
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
 | [2227-sum-of-subarray-ranges](https://github.com/nikhilmehlan/Dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
 |  |
 | ------- |
@@ -550,6 +553,7 @@ Happy coding!
 | [0794-swim-in-rising-water](https://github.com/nikhilmehlan/Dsa/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilmehlan/Dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Simulation
 |  |
@@ -576,6 +580,7 @@ Happy coding!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
