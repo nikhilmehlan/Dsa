@@ -94,6 +94,7 @@ Happy coding!
 | [0213-house-robber-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhilmehlan/Dsa/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhilmehlan/Dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -249,6 +250,7 @@ Happy coding!
 | [0136-single-number](https://github.com/nikhilmehlan/Dsa/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhilmehlan/Dsa/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -270,6 +272,7 @@ Happy coding!
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nikhilmehlan/Dsa/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -379,6 +382,7 @@ Happy coding!
 | [0189-rotate-array](https://github.com/nikhilmehlan/Dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/nikhilmehlan/Dsa/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
@@ -399,6 +403,7 @@ Happy coding!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilmehlan/Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhilmehlan/Dsa/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/nikhilmehlan/Dsa/tree/master/0794-swim-in-rising-water) |
@@ -655,6 +660,7 @@ Happy coding!
 | [0056-merge-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/nikhilmehlan/Dsa/tree/master/0368-largest-divisible-subset) |
