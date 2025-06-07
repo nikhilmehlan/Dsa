@@ -9,5 +9,6 @@ public:
             sum2 += nums[i];
         }
         return (sum - sum2);
+       
     }
 };
