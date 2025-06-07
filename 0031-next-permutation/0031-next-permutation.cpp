@@ -1,32 +1,27 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int index = -1;
-        int n = nums.size();
-        
-        // Find the rightmost index which is smaller than its next element
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                index = i;
+        int ind=-1;
+        int n=nums.size();
+        for(int i=n-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                ind=i;
                 break;
             }
         }
-        
-        // If no such index is found, the permutation is the highest, so reverse it to get the lowest
-        if (index == -1) {
-            reverse(nums.begin(), nums.end());
-            return;
+        if(ind == -1){
+            reverse(nums.begin(),nums.end());
         }
-        
-        // Find the smallest element on the right of 'index' which is greater than nums[index]
-        for (int i = n - 1; i > index; i--) {
-            if (nums[i] > nums[index]) {
-                swap(nums[i], nums[index]);
-                break;
+        if(ind != -1){
+            int si=-1;
+            for(int i=n-1;i>ind;i--){
+                if(nums[i]>nums[ind]){
+                    si=i;
+                    break;
+                } 
             }
+            swap(nums[ind],nums[si]);
+            reverse(nums.begin()+ind+1,nums.end());
         }
-        
-        // Reverse the elements to the right of 'index'
-        reverse(nums.begin() + index + 1, nums.end());
     }
 };
