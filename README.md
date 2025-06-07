@@ -107,6 +107,7 @@ Happy coding!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nikhilmehlan/Dsa/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/nikhilmehlan/Dsa/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0503-next-greater-element-ii) |
