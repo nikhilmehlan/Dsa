@@ -67,6 +67,7 @@ Happy coding!
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/nikhilmehlan/Dsa/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/nikhilmehlan/Dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nikhilmehlan/Dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nikhilmehlan/Dsa/tree/master/0055-jump-game) |
@@ -226,6 +227,7 @@ Happy coding!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nikhilmehlan/Dsa/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmehlan/Dsa/tree/master/0073-set-matrix-zeroes) |
@@ -388,6 +390,7 @@ Happy coding!
 | [0007-reverse-integer](https://github.com/nikhilmehlan/Dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nikhilmehlan/Dsa/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/nikhilmehlan/Dsa/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/nikhilmehlan/Dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nikhilmehlan/Dsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nikhilmehlan/Dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhilmehlan/Dsa/tree/master/0070-climbing-stairs) |
