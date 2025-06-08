@@ -1,30 +1,22 @@
-//{ Driver Code Starts
-// Initial Template for C++
-
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
 /*You are required to complete this function*/
 
 class Solution {
   public:
-    int maxLen(vector<int>& arr, int n) {
-        // 
-        map<long long,int> mpp;
+    int maxLen(vector<int>& arr) {
+        // code here
+        int k=0;
+        unordered_map<int,int> mpp;
+        int sum=0;
         int len=0;
-        long long sum=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<arr.size();i++){
             sum+=arr[i];
-            if(sum==0){
+            if(sum==k){
                 len=max(len,i+1);
-                
             }
-            long long rem=sum-0;
+            int rem=sum-k;
             if(mpp.find(rem)!=mpp.end()){
-                int len2=i-mpp[rem];
-                len=max(len,len2);
+                int l=i-mpp[rem];
+                len=max(len,l);
             }
             if(mpp.find(sum)==mpp.end()){
                 mpp[sum]=i;
@@ -33,24 +25,3 @@ class Solution {
         return len;
     }
 };
-
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        int m;
-        cin >> m;
-        vector<int> array1(m);
-        for (int i = 0; i < m; ++i) {
-            cin >> array1[i];
-        }
-        Solution ob;
-        cout << ob.maxLen(array1, m) << endl;
-    }
-    return 0;
-}
-
-// } Driver Code Ends
