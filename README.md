@@ -60,6 +60,7 @@ Happy coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nikhilmehlan/Dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilmehlan/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikhilmehlan/Dsa/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilmehlan/Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -511,6 +512,7 @@ Happy coding!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhilmehlan/Dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilmehlan/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhilmehlan/Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/nikhilmehlan/Dsa/tree/master/0031-next-permutation) |
@@ -686,6 +688,7 @@ Happy coding!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhilmehlan/Dsa/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nikhilmehlan/Dsa/tree/master/0169-majority-element) |
