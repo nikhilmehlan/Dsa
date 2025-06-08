@@ -120,6 +120,7 @@ Happy coding!
 | [0503-next-greater-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/nikhilmehlan/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilmehlan/Dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -292,6 +293,7 @@ Happy coding!
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilmehlan/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/nikhilmehlan/Dsa/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/nikhilmehlan/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nikhilmehlan/Dsa/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilmehlan/Dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
@@ -651,6 +653,7 @@ Happy coding!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nikhilmehlan/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
