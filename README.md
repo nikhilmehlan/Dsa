@@ -142,6 +142,7 @@ Happy coding!
 | [0854-making-a-large-island](https://github.com/nikhilmehlan/Dsa/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/nikhilmehlan/Dsa/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/nikhilmehlan/Dsa/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmehlan/Dsa/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmehlan/Dsa/tree/master/0945-snakes-and-ladders) |
@@ -445,6 +446,7 @@ Happy coding!
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilmehlan/Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/nikhilmehlan/Dsa/tree/master/0794-swim-in-rising-water) |
+| [0907-koko-eating-bananas](https://github.com/nikhilmehlan/Dsa/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
