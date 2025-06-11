@@ -112,6 +112,7 @@ Happy coding!
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhilmehlan/Dsa/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -258,6 +259,7 @@ Happy coding!
 | [0085-maximal-rectangle](https://github.com/nikhilmehlan/Dsa/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/nikhilmehlan/Dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nikhilmehlan/Dsa/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nikhilmehlan/Dsa/tree/master/0733-flood-fill) |
@@ -454,6 +456,7 @@ Happy coding!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilmehlan/Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikhilmehlan/Dsa/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0410-split-array-largest-sum) |
@@ -726,6 +729,7 @@ Happy coding!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/nikhilmehlan/Dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
