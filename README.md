@@ -207,6 +207,7 @@ Happy coding!
 | [0131-palindrome-partitioning](https://github.com/nikhilmehlan/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
@@ -312,6 +313,7 @@ Happy coding!
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/nikhilmehlan/Dsa/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
