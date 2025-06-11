@@ -219,6 +219,7 @@ Happy coding!
 | [0678-valid-parenthesis-string](https://github.com/nikhilmehlan/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/nikhilmehlan/Dsa/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/nikhilmehlan/Dsa/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilmehlan/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmehlan/Dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/1078-remove-outermost-parentheses) |
@@ -1000,6 +1001,7 @@ Happy coding!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhilmehlan/Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/nikhilmehlan/Dsa/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/nikhilmehlan/Dsa/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
