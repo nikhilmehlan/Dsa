@@ -321,6 +321,7 @@ Happy coding!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/nikhilmehlan/Dsa/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/nikhilmehlan/Dsa/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/nikhilmehlan/Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0205-isomorphic-strings) |
@@ -588,6 +589,7 @@ Happy coding!
 | [0042-trapping-rain-water](https://github.com/nikhilmehlan/Dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/nikhilmehlan/Dsa/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/nikhilmehlan/Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nikhilmehlan/Dsa/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0295-find-median-from-data-stream) |
@@ -719,6 +721,7 @@ Happy coding!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilmehlan/Dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/nikhilmehlan/Dsa/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0237-delete-node-in-a-linked-list) |
