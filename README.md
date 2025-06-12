@@ -595,6 +595,7 @@ Happy coding!
 | [0125-valid-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhilmehlan/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/nikhilmehlan/Dsa/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/nikhilmehlan/Dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nikhilmehlan/Dsa/tree/master/0283-move-zeroes) |
@@ -732,6 +733,7 @@ Happy coding!
 | [0141-linked-list-cycle](https://github.com/nikhilmehlan/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/nikhilmehlan/Dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0237-delete-node-in-a-linked-list) |
@@ -779,6 +781,7 @@ Happy coding!
 | [0053-maximum-subarray](https://github.com/nikhilmehlan/Dsa/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/nikhilmehlan/Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhilmehlan/Dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -790,6 +793,7 @@ Happy coding!
 | [0018-4sum](https://github.com/nikhilmehlan/Dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/nikhilmehlan/Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhilmehlan/Dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0229-majority-element-ii) |
@@ -819,6 +823,7 @@ Happy coding!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilmehlan/Dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/nikhilmehlan/Dsa/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
