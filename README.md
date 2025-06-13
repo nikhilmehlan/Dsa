@@ -445,6 +445,7 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nikhilmehlan/Dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nikhilmehlan/Dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nikhilmehlan/Dsa/tree/master/0013-roman-to-integer) |
@@ -467,6 +468,7 @@ Happy coding!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/nikhilmehlan/Dsa/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/nikhilmehlan/Dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0206-reverse-linked-list) |
@@ -732,6 +734,7 @@ Happy coding!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilmehlan/Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilmehlan/Dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
