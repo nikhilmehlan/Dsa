@@ -175,6 +175,7 @@ Happy coding!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilmehlan/Dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/2047-find-a-peak-element-ii) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/nikhilmehlan/Dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/nikhilmehlan/Dsa/tree/master/2145-grid-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/nikhilmehlan/Dsa/tree/master/2227-sum-of-subarray-ranges) |
