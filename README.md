@@ -178,6 +178,7 @@ Happy coding!
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nikhilmehlan/Dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/nikhilmehlan/Dsa/tree/master/2145-grid-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/nikhilmehlan/Dsa/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2227-sum-of-subarray-ranges](https://github.com/nikhilmehlan/Dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilmehlan/Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -706,6 +707,7 @@ Happy coding!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmehlan/Dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilmehlan/Dsa/tree/master/2032-largest-odd-number-in-string) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/nikhilmehlan/Dsa/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikhilmehlan/Dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
