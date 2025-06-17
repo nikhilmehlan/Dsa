@@ -469,6 +469,7 @@ Happy coding!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikhilmehlan/Dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikhilmehlan/Dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -1046,6 +1047,7 @@ Happy coding!
 | ------- |
 | [0062-unique-paths](https://github.com/nikhilmehlan/Dsa/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Ordered Set
 |  |
 | ------- |
