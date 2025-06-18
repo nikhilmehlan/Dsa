@@ -1,9 +1,3 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
 class Solution {
 public:
     // Function to check if it is safe to assign the color to the current node
@@ -41,13 +35,13 @@ public:
     }
 
     // Main function to check if graph can be colored with at most m colors
-    bool graphColoring(int v, vector<pair<int, int>>& edges, int m) {
+    bool graphColoring(int v, vector<vector<int>>& edges, int m) {
         vector<vector<int>> graph(v);
         
         // Build the adjacency list from the edges
         for (auto edge : edges) {
-            graph[edge.first].push_back(edge.second);
-            graph[edge.second].push_back(edge.first);  // Undirected graph
+            graph[edge[0]].push_back(edge[1]);
+            graph[edge[1]].push_back(edge[0]);  // Undirected graph
         }
         
         vector<int> color(v, 0);  // Color array initialized to 0 (no color assigned)
@@ -56,44 +50,3 @@ public:
         return graphColoringUtil(0, m, color, graph, v);
     }
 };
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    cin.ignore();
-    while (t--) {
-        int n, m;
-        cin >> n;
-        cin.ignore(); // Ignore newline after reading n
-        vector<int> arr;
-        string input;
-        getline(cin, input); // Read the entire line for the array elements
-
-        stringstream ss(input);
-        int number;
-        while (ss >> number) {
-            arr.push_back(number); // Populate the array with edge values
-        }
-        cin >> m;
-        cin.ignore(); // Ignore newline after reading m
-
-        int edges_count = arr.size();
-        vector<pair<int, int>> edges(edges_count /
-                                     2); // Correct size of the edges vector
-
-        for (int i = 0; i < edges_count; i += 2) {
-            int l1 = arr[i];
-            int l2 = arr[i + 1];
-            edges[i / 2] = {l1, l2}; // Properly assign the pair
-        }
-
-        Solution ob;
-        cout << (ob.graphColoring(n, edges, m) ? "true" : "false")
-             << endl; // Call the graph coloring function
-    }
-    return 0;
-}
-
-// } Driver Code Ends
