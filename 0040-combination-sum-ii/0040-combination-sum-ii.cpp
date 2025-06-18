@@ -1,24 +1,28 @@
 class Solution {
 public:
-    void helper(int index,vector<int>& arr,vector<vector<int>>& ans,vector<int>& ds,int target){
-        if(target==0){
+    void helper(vector<int>& candidates, int target, vector<vector<int>>& ans, vector<int>& ds, int ind) {
+        if(target == 0){
             ans.push_back(ds);
             return;
         }
-        for(int i=index;i<arr.size();i++){
-            if(i>index && arr[i]==arr[i-1]) continue;
-            if(arr[i] > target) break;
+
+        for(int i = ind; i < candidates.size(); ++i) {
+            // Skip duplicates at the same level
+            if(i > ind && candidates[i] == candidates[i - 1]) continue;
             
-            ds.push_back(arr[i]);
-            helper(i+1,arr,ans,ds,target-arr[i]);
+            if(candidates[i] > target) break; // Early stopping
+
+            ds.push_back(candidates[i]);
+            helper(candidates, target - candidates[i], ans, ds, i + 1); // i+1 because each element can be used once
             ds.pop_back();
         }
     }
+
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        sort(candidates.begin(), candidates.end()); // Sort first
         vector<vector<int>> ans;
-        sort(candidates.begin(),candidates.end());
         vector<int> ds;
-        helper(0,candidates,ans,ds,target);
+        helper(candidates, target, ans, ds, 0);
         return ans;
     }
 };
