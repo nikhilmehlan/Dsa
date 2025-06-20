@@ -1,63 +1,27 @@
-//{ Driver Code Starts
-// Initial Template for C++
-#include <bits/stdc++.h>
+#include <stack>
+#include <string>
 using namespace std;
-
-
-// } Driver Code Ends
-// User function Template for C++
 
 class Solution {
   public:
-    string postToInfix(string s) {
-        // Write your code here
-        int i=0;
-        stack<string> st;
-        while(i<s.length()){
-            if((s[i] >='A' && s[i]<='Z') ||
-               (s[i] >='a' && s[i]<='z') ||
-               (s[i] >='0' && s[i]<='9') ){
-                st.push(string(1, s[i]));
-               }
-            else{
-                string t1=st.top();
-                st.pop();
-                string t2=st.top();
-                st.pop();
-                string con = "(" + t2 + string(1, s[i]) + t1 + ")";
+    bool isop(char c){
+        return (c >= 'a' && c <= 'z') || 
+               (c >= 'A' && c <= 'Z') || 
+               (c >= '0' && c <= '9');
+    }
 
-                st.push(con);
+    string postToInfix(string exp) {
+        stack<string> st;
+        for (int i = 0; i < exp.size(); i++) {
+            if (isop(exp[i])) {
+                st.push(string(1, exp[i]));
+            } else {
+                string op2 = st.top(); st.pop();
+                string op1 = st.top(); st.pop();
+                string temp = "(" + op1 + exp[i] + op2 + ")";
+                st.push(temp);
             }
-            i++;
         }
         return st.top();
     }
 };
-
-//{ Driver Code Starts.
-
-int main() {
-    int t = 1;
-    cin >> t;
-
-    // freopen ("output_gfg.txt", "w", stdout);
-
-    while (t--) {
-        // Input
-        string postfix;
-        cin >> postfix;
-        // char marker; cin >> marker;
-
-        Solution obj;
-        cout << obj.postToInfix(postfix) << endl;
-
-        // cout << "~\n";
-    
-cout << "~" << "\n";
-}
-    fclose(stdout);
-
-    return 0;
-}
-
-// } Driver Code Ends
