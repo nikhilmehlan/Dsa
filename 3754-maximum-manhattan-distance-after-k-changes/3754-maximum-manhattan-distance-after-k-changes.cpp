@@ -1,23 +1,19 @@
 class Solution {
 public:
-    int maxDistance(string s, int k) {
-        int ans = 0;
-        int north = 0, south = 0, east = 0, west = 0;
-        
-        for (int i = 0; i < s.size(); i++) {
-            char c = s[i];
-            if (c == 'N') north++;
-            else if (c == 'S') south++;
-            else if (c == 'E') east++;
-            else if (c == 'W') west++;
-            
-            int x = abs(north - south);
-            int y = abs(east - west);
-            int MD = x + y;
-            int dis = MD + min(2 * k, i + 1 - MD);
-            ans = max(ans, dis);
+    static int maxDistance(string& s, int k) {
+        const int n=s.size();
+        int N=0, S=0, E=0, W=0, dist=0;
+        for (int i=0; i<n; i++){
+            const char c=s[i];
+            switch(c){
+                case 'N':N++; break;
+                case 'S':S++; break;
+                case 'E':E++; break;
+                case 'W':W++; break;
+            }
+            const int d=abs(N-S)+abs(E-W)+2*k;
+            dist=max(dist, min(d, i+1));
         }
-        
-        return ans;
+        return dist;
     }
 };
