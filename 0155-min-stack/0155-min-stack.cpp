@@ -5,12 +5,15 @@ public:
     }
     stack<pair<int,int>> st;
     void push(int val) {
-        if(st.empty()){
-            st.push({val,val});
-        }
-        else{
-            st.push({val,min(val,st.top().second)});
-        }
+       int mini;
+       if(st.empty()){
+        mini=val;
+       }
+       else{
+        mini=min(val,st.top().second);
+       } 
+       st.push({val,mini});
+
     }
     
     void pop() {
@@ -18,8 +21,7 @@ public:
     }
     
     int top() {
-        int x=st.top().first;
-        return x;
+        return st.top().first;
     }
     
     int getMin() {
