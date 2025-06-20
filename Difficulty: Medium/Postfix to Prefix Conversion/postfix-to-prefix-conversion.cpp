@@ -1,62 +1,27 @@
-//{ Driver Code Starts
-// Initial Template for C++
-#include <bits/stdc++.h>
+#include <stack>
+#include <string>
 using namespace std;
-
-
-// } Driver Code Ends
-// User function Template for C++
 
 class Solution {
   public:
-    string postToPre(string str) {
-        // Write your code here
-        int i=0;
+    bool isop(char c){
+        return (c >= 'a' && c <= 'z') || 
+               (c >= 'A' && c <= 'Z') || 
+               (c >= '0' && c <= '9');
+    }
+
+    string postToPre(string exp) {
         stack<string> st;
-        while(i<str.length()){
-            if((str[i] >='A' && str[i]<='Z') ||
-               (str[i] >='a' && str[i]<='z') ||
-               (str[i] >='0' && str[i]<='9') ){
-                st.push(string(1, str[i]));
-               }
-            else{
-                string t1=st.top();
-                st.pop();
-                string t2=st.top();
-                st.pop();
-                string res=string(1,str[i])+t2+t1;
-                st.push(res);
+        for (int i = 0; i < exp.size(); i++) {
+            if (isop(exp[i])) {
+                st.push(string(1, exp[i]));
+            } else {
+                string op1 = st.top(); st.pop();
+                string op2 = st.top(); st.pop();
+                string temp = exp[i]+op2+op1;
+                st.push(temp);
             }
-            i++;
         }
         return st.top();
     }
 };
-
-//{ Driver Code Starts.
-int main() {
-    int t = 1;
-    cin >> t;
-
-    // freopen ("output_gfg.txt", "w", stdout);
-
-    while (t--) {
-        // Input
-        string postfix;
-        cin >> postfix;
-
-        // char marker; cin >> marker;
-
-        Solution obj;
-        cout << obj.postToPre(postfix) << endl;
-
-        // cout << "~\n";
-    
-cout << "~" << "\n";
-}
-    // fclose(stdout);
-
-    return 0;
-}
-
-// } Driver Code Ends
