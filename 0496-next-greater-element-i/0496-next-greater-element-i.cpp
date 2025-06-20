@@ -12,8 +12,9 @@ public:
             }
             else{
                 temp[nums2[i]]=st.top();
+
             }
-            st.push(nums2[i]);
+        st.push(nums2[i]);
         }
         vector<int> ans;
         for(auto it:nums1){
