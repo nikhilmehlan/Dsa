@@ -1,80 +1,48 @@
-//{ Driver Code Starts
-// C++ implementation to convert infix expression to postfix
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
 class Solution {
   public:
-    int priority(char ch) {
-        switch(ch) {
-            case '^': return 3;
-            case '*': 
-            case '/': return 2;
-            case '+': 
-            case '-': return 1;
-            default: return -1; // For non-operators
+    int prec(char c){
+        if(c=='^'){
+            return 3;
+        }
+        else if(c=='/' || c=='*'){
+            return 2;
+        }
+        else if(c=='+' || c=='-'){
+            return 1;
+        }
+        else{
+            return -1;
         }
     }
-    // Function to convert an infix expression to a postfix expression.
     string infixToPostfix(string& s) {
-        // Your code here
+        // code here
+        string result="";
         stack<char> st;
-        int i=0;
-        string ans="";
-        int len=s.length();
-        
-        while(i<len){
-            if((s[i] >='A' && s[i]<='Z') ||
-               (s[i] >='a' && s[i]<='z') ||
-               (s[i] >='0' && s[i]<='9') ){
-                   ans=ans+s[i];
-               }
-            else if(s[i]=='('){
-                st.push(s[i]);
+        for(char c:s){
+            if(c>='a' && c<='z' || c>='A' && c<='Z' || c>='0' && c<='9'){
+                result+=c;
             }
-            else if(s[i]==')'){
-                while(!st.empty() && st.top()!='('){
-                    ans=ans+st.top();
+            else if(c=='('){
+                st.push(c);
+            }
+            else if(c==')'){
+                while(st.top()!='('){
+                    result+=st.top();
                     st.pop();
                 }
                 st.pop();
             }
             else{
-                while(!st.empty() && priority(s[i])<=priority(st.top())){
-                    ans=ans+st.top();
-                    st.pop();
-                }
-                st.push(s[i]);
+            while(!st.empty() && prec(c)<=prec(st.top())){
+                result+=st.top();
+                st.pop();
             }
-            i++;
-        }
+            st.push(c);
+        }}
         while(!st.empty()){
-            ans=ans+st.top();
-                    st.pop();
+             result+=st.top();
+                st.pop();
         }
-        return ans;
+        return result;
     }
 };
-
-
-//{ Driver Code Starts.
-//  Driver program to test above functions
-int main() {
-    int t;
-    cin >> t;
-    cin.ignore(INT_MAX, '\n');
-    while (t--) {
-        string exp;
-        cin >> exp;
-        Solution ob;
-        cout << ob.infixToPostfix(exp) << endl;
-
-        cout << "~"
-             << "\n";
-    }
-    return 0;
-}
-
-// } Driver Code Ends
