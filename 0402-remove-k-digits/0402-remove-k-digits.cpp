@@ -1,20 +1,17 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        string result = ""; // Use this as a stack replacement
+        string result = "";
 
         for (char c : num) {
-            // Remove characters from the result if they are greater than the current character
-            // and we still have `k` digits to remove
-            while (!result.empty() && k > 0 && result.back() > c) {
+            while (!result.empty() && result.back() > c && k > 0) {
                 result.pop_back();
                 k--;
             }
-            // Append the current character
-            result.push_back(c);
+            result.push_back(c);  // Don't forget to add the current digit
         }
 
-        // If we still have `k` digits left to remove, remove them from the end
+        // Remove remaining digits from the end if k > 0
         while (k > 0 && !result.empty()) {
             result.pop_back();
             k--;
@@ -25,9 +22,9 @@ public:
         while (i < result.size() && result[i] == '0') {
             i++;
         }
+
         result = result.substr(i);
 
-        // Return "0" if the result is empty
         return result.empty() ? "0" : result;
     }
 };
