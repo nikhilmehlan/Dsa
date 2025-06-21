@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> findnse(vector<int>& arr) {
+vector<int> findnse(vector<int>& arr) {
         vector<int> nse(arr.size());
         stack<int> st;
         for (int i = arr.size() - 1; i >= 0; i--) {
@@ -27,10 +27,10 @@ public:
     int largestRectangleArea(vector<int>& heights) {
         vector<int> nse=findnse(heights);
         vector<int> pse=findpse(heights);
-        int maxi=0;
+        int mini=0;
         for(int i=0;i<heights.size();i++){
-            maxi=max(maxi,(heights[i]*(nse[i]-pse[i]-1)));
+            mini=max(mini,(heights[i]*(nse[i]-pse[i]-1)));
         }
-        return maxi;
+        return mini;
     }
 };
