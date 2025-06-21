@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> findnse(vector<int>& arr) {
+ vector<int> findnse(vector<int>& arr) {
         vector<int> nse(arr.size());
         stack<int> st;
         for (int i = arr.size() - 1; i >= 0; i--) {
@@ -36,11 +36,11 @@ public:
     int maximalRectangle(vector<vector<char>>& matrix) {
         int n=matrix.size();
         int m=matrix[0].size();
-        vector<vector<int>> prefix(n, vector<int>(m, 0));
+        vector<vector<int>> prefix(n,vector<int>(m,0));
         for(int j=0;j<m;j++){
             int sum=0;
             for(int i=0;i<n;i++){
-                sum+=(matrix[i][j]-'0');
+                sum+=matrix[i][j]-'0';
                 if(matrix[i][j]=='0') sum=0;
                 prefix[i][j]=sum;
             }
