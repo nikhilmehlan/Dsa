@@ -1,13 +1,16 @@
 class Solution {
 public:
-    int helper(vector<int>& nums, int k){
-        int l=0;
+    int helper(vector<int>& nums, int goal){
+         if (goal < 0)
+            return 0;
         int r=0;
-        int sum=0;
+        int l=0;
         int cnt=0;
-        while(r<nums.size()){
+        int n=nums.size();
+        int sum=0;
+        while(r<n){
             sum+=nums[r]%2;
-            while(sum>k){
+            while(sum>goal){
                 sum-=nums[l]%2;
                 l++;
             }
