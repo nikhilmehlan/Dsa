@@ -1,63 +1,22 @@
-//{ Driver Code Starts
-//Initial Template for C++
-#include<bits/stdc++.h>
-using namespace std;
+// User function Template for C++
 
+class Solution {
+  public:
 
-// } Driver Code Ends
-//User function Template for C++
-
-class Solution{
-public:
-
-    vector<int> replaceWithRank(vector<int> &arr, int N){
-        vector<int> sortedarr=arr;
-        sort(sortedarr.begin(),sortedarr.end());
-        
+    vector<int> replaceWithRank(vector<int> &arr, int n) {
         map<int,int> mpp;
+        vector<int> sorted=arr;
+        sort(sorted.begin(),sorted.end());
         int rank=1;
-        for(int num:sortedarr){
-            if(mpp.find(num)==mpp.end()){
-                mpp[num]=rank++;
-            }
+        for(int i=0;i<n;i++){
+          if (mpp.find(sorted[i]) == mpp.end()) {
+                mpp[sorted[i]] = rank++;
+            }  
         }
         vector<int> result;
-        for(int num:arr){
-            result.push_back(mpp[num]);
+        for(auto it:arr){
+            result.push_back(mpp[it]);
         }
-    return result;
+        return result;
     }
-
 };
-
-
-//{ Driver Code Starts.
-int main(){
-    int t = 1;
-    cin >> t;
-
-    // freopen ("output_gfg.txt", "w", stdout);
-
-    while(t--){
-        //Input
-
-       int n; cin >> n;
-       vector<int> vec(n);
-       for(int i = 0;i<n;i++) cin >> vec[i];
-
-        Solution obj;
-        vector<int> ans = obj.replaceWithRank(vec,n);
-        for(int i = 0;i<n;i++) cout << ans[i] << " ";
-        cout << endl;
-        
-
-        
-        // cout << "~\n";
-    
-cout << "~" << "\n";
-}
-    // fclose(stdout);
-
-    return 0;
-}
-// } Driver Code Ends
