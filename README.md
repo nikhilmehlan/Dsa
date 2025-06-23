@@ -249,6 +249,7 @@ Happy coding!
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilmehlan/Dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmehlan/Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2577-count-palindromic-subsequences](https://github.com/nikhilmehlan/Dsa/tree/master/2577-count-palindromic-subsequences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -706,6 +707,7 @@ Happy coding!
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmehlan/Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilmehlan/Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
