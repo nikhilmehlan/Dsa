@@ -1,18 +1,16 @@
 class MedianFinder {
 public:
+
     priority_queue<int> left; //max heap;
     priority_queue<int,vector<int>,greater<int>> right; //min heap;
-
     MedianFinder() {
         
     }
     
     void addNum(int num) {
         left.push(num);
-
         right.push(left.top());
         left.pop();
-
         if(left.size()<right.size()){
             left.push(right.top());
             right.pop();
