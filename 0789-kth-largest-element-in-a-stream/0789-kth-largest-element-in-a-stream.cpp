@@ -18,7 +18,6 @@ public:
             pq.push(val);
         }
         return pq.top();
-        
     }
 };
 
