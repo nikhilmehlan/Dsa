@@ -10,10 +10,10 @@ public:
             for(int i=l;i<=r;i++){
                 far=max(far,i+nums[i]);
             }
+            jumps++;
             l=r+1;
             r=far;
-            jumps++;
         }
-        return jumps;
+    return jumps;
     }
 };
