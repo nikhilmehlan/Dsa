@@ -255,6 +255,7 @@ Happy coding!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilmehlan/Dsa/tree/master/2032-largest-odd-number-in-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmehlan/Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhilmehlan/Dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -283,6 +284,7 @@ Happy coding!
 | [0216-combination-sum-iii](https://github.com/nikhilmehlan/Dsa/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0494-target-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Matrix
 |  |
 | ------- |
@@ -552,6 +554,7 @@ Happy coding!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilmehlan/Dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -750,6 +753,7 @@ Happy coding!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmehlan/Dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilmehlan/Dsa/tree/master/2032-largest-odd-number-in-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/nikhilmehlan/Dsa/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhilmehlan/Dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -839,6 +843,7 @@ Happy coding!
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmehlan/Dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhilmehlan/Dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
