@@ -9,59 +9,61 @@
  */
 class Solution {
 public:
-    void markParents(TreeNode* root,unordered_map<TreeNode*,TreeNode*> &parent_track,TreeNode* target){
+    void markParents(unordered_map<TreeNode*,TreeNode*>& parent,TreeNode* root){
+        if(!root) return;
+
         queue<TreeNode*> q;
         q.push(root);
         while(!q.empty()){
-            TreeNode* current=q.front();
+            TreeNode* curr=q.front();
             q.pop();
-            if(current->left){
-                parent_track[current->left]=current;
-                q.push(current->left);
+            if(curr->left){
+                parent[curr->left]=curr;
+                q.push(curr->left);
             }
-            if(current->right){
-                parent_track[current->right]=current;
-                q.push(current->right);
+            if(curr->right){
+                parent[curr->right]=curr;
+                q.push(curr->right);
             }
         }
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*,TreeNode*> parent_track;
-        markParents(root,parent_track,target);
-
-        unordered_map<TreeNode* , bool> visited;
+        unordered_map<TreeNode*,TreeNode*> parent;
+        markParents(parent,root);
+        unordered_map<TreeNode*,bool> vis;
         queue<TreeNode*> q;
         q.push(target);
-        visited[target]=true;
-        int clevel=0;
+        vis[target]=true;
+        int curr_level=0;
         while(!q.empty()){
-            int size=q.size();
-            if(clevel++ == k) break;
-            for(int i=0;i<size;i++){
-                TreeNode* current=q.front();
+            int s=q.size();
+            if(curr_level==k) break;
+            curr_level++;
+            for(int i=0;i<s;i++){
+                TreeNode* node=q.front();
                 q.pop();
-                if(current->left && !visited[current->left]){
-                    q.push(current->left);
-                    visited[current->left]=true;
+
+                if(node->left && !vis[node->left]){
+                    q.push(node->left);
+                    vis[node->left]=true;
                 }
-                if(current->right && !visited[current->right]){
-                    q.push(current->right);
-                    visited[current->right]=true;
+                
+                if(node->right && !vis[node->right]){
+                    q.push(node->right);
+                    vis[node->right]=true;
                 }
-                if(parent_track[current] && !visited[parent_track[current]]){
-                    q.push(parent_track[current]);
-                    visited[parent_track[current]]=true;
+                if(parent[node] && !vis[parent[node]]){
+                    q.push(parent[node]);
+                    vis[parent[node]]=true;
                 }
             }
+        } vector<int> ans;
 
-        }
-        vector<int> result;
         while(!q.empty()){
             TreeNode* curr=q.front();
             q.pop();
-            result.push_back(curr->val);
-
+            ans.push_back(curr->val);
         }
-        return result;
+        return ans;
     }
 };
