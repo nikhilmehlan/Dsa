@@ -6,27 +6,23 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    vector<int> ino;
-    void inorder(TreeNode* node) {
-        if (!node)
-            return;
-        inorder(node->left);
-        ino.push_back(node->val);
-        inorder(node->right);
+    void inorder(TreeNode* root,vector<int>& res){
+        if(!root) return;
+
+        inorder(root->left,res);
+        res.push_back(root->val);
+        inorder(root->right,res);
     }
     bool isValidBST(TreeNode* root) {
-        inorder(root);
-
-        for (int i = 1; i < ino.size(); i++) {
-            if (ino[i] <= ino[i - 1]) {
-                return false;
-            }
+        vector<int> in;
+        inorder(root,in);
+        for(int i=0;i<in.size()-1;i++){
+            if(in[i]>=in[i+1]) return false;
         }
         return true;
     }
