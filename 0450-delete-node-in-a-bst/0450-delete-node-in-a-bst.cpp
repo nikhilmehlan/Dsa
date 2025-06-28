@@ -12,16 +12,33 @@
  */
 class Solution {
 public:
-    TreeNode* deleteNode(TreeNode* root, int key) {
-        if (root == NULL) {
+    TreeNode* findright(TreeNode* root) {
+        if (!root->right)
             return root;
-        }
+
+        return findright(root->right);
+    }
+    TreeNode* helper(TreeNode* root) {
+        if (!root->left)
+            return root->right;
+        else if (!root->right)
+            return root->left;
+
+        TreeNode* rightchild = root->right;
+        TreeNode* leftright = findright(root->left);
+        leftright->right = rightchild;
+
+        return root->left;
+    }
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        if (!root)
+            return root;
         if (root->val == key) {
             return helper(root);
         }
         TreeNode* dummy = root;
         while (root) {
-            if (root->val > key) {
+            if (key < root->val) {
                 if (root->left && root->left->val == key) {
                     root->left = helper(root->left);
                     break;
@@ -38,24 +55,5 @@ public:
             }
         }
         return dummy;
-    }
-    TreeNode* helper(TreeNode* root) {
-        if (root->left == NULL) {
-            return root->right;
-        } else if (root->right == NULL) {
-            return root->left;
-        }
-
-        TreeNode* rightChild = root->right;
-        TreeNode* leftP = findRight(root->left);
-        leftP->right = rightChild;
-        return root->left;
-    }
-    TreeNode* findRight(TreeNode* root) {
-        if (root->right == NULL) {
-            return root;
-        }
-
-        return findRight(root->right);
     }
 };
