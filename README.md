@@ -185,6 +185,7 @@ Happy coding!
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nikhilmehlan/Dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/nikhilmehlan/Dsa/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nikhilmehlan/Dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/nikhilmehlan/Dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilmehlan/Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -381,6 +382,7 @@ Happy coding!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nikhilmehlan/Dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -722,6 +724,7 @@ Happy coding!
 | [0794-swim-in-rising-water](https://github.com/nikhilmehlan/Dsa/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilmehlan/Dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nikhilmehlan/Dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Simulation
@@ -888,6 +891,7 @@ Happy coding!
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nikhilmehlan/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nikhilmehlan/Dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhilmehlan/Dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikhilmehlan/Dsa/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
