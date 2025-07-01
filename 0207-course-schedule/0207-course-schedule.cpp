@@ -15,11 +15,11 @@ public:
                 q.push(i);
             }
         }
-        vector<int> topo;
+        vector<int> ans;
         while(!q.empty()){
-            int node=q.front();
+            auto node=q.front();
             q.pop();
-            topo.push_back(node);
+            ans.push_back(node);
             for(auto it:adj[node]){
                 ind[it]--;
                 if(ind[it]==0){
@@ -27,9 +27,8 @@ public:
                 }
             }
         }
-        if(topo.size()<numCourses) return false;
+        if(ans.size()<numCourses) return false;
 
         return true;
-
     }
 };
