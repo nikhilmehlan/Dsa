@@ -340,6 +340,7 @@ Happy coding!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/nikhilmehlan/Dsa/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -513,6 +514,7 @@ Happy coding!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikhilmehlan/Dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikhilmehlan/Dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmehlan/Dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
@@ -530,6 +532,7 @@ Happy coding!
 | [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -746,6 +749,7 @@ Happy coding!
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmehlan/Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilmehlan/Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
