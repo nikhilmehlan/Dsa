@@ -226,6 +226,7 @@ Happy coding!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nikhilmehlan/Dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nikhilmehlan/Dsa/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/nikhilmehlan/Dsa/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nikhilmehlan/Dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nikhilmehlan/Dsa/tree/master/0076-minimum-window-substring) |
@@ -507,6 +508,7 @@ Happy coding!
 | [0012-integer-to-roman](https://github.com/nikhilmehlan/Dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nikhilmehlan/Dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nikhilmehlan/Dsa/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/nikhilmehlan/Dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nikhilmehlan/Dsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nikhilmehlan/Dsa/tree/master/0062-unique-paths) |
@@ -763,6 +765,7 @@ Happy coding!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmehlan/Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
