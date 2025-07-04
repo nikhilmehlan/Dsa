@@ -11,7 +11,7 @@ public:
         vector<vector<int>> dp(n, vector<int>(subsetSum + 1, 0));
 
         // Base case initialization
-        if (nums[0] == 0) {
+         if (nums[0] == 0) {
             dp[0][0] = 2;  // pick or not pick
         } else {
             dp[0][0] = 1;  // only not pick
@@ -19,18 +19,16 @@ public:
                 dp[0][nums[0]] = 1;  // pick
             }
         }
-
-        for (int i = 1; i < n; i++) {
-            for (int t = 0; t <= subsetSum; t++) {
-                int notpick = dp[i - 1][t];
-                int pick = 0;
-                if (nums[i] <= t) {
-                    pick = dp[i - 1][t - nums[i]];
+        for(int i=1;i<n;i++){
+            for(int t=0;t<=subsetSum;t++){
+                int notpick=dp[i-1][t];
+                int pick=0;
+                if(nums[i]<=t){
+                    pick=dp[i-1][t-nums[i]];
                 }
-                dp[i][t] = pick + notpick;
+                dp[i][t]=pick+notpick;
             }
         }
-
-        return dp[n - 1][subsetSum];
+        return dp[n-1][subsetSum];
     }
 };
