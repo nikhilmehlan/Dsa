@@ -342,6 +342,7 @@ Happy coding!
 | [2792-neighboring-bitwise-xor](https://github.com/nikhilmehlan/Dsa/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -516,6 +517,7 @@ Happy coding!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikhilmehlan/Dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmehlan/Dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
@@ -534,6 +536,7 @@ Happy coding!
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
 | ------- |
