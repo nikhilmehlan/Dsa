@@ -81,6 +81,7 @@ Happy coding!
 | [0046-permutations](https://github.com/nikhilmehlan/Dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/nikhilmehlan/Dsa/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/nikhilmehlan/Dsa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nikhilmehlan/Dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nikhilmehlan/Dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0054-spiral-matrix) |
@@ -230,6 +231,7 @@ Happy coding!
 | [0038-count-and-say](https://github.com/nikhilmehlan/Dsa/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/nikhilmehlan/Dsa/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/nikhilmehlan/Dsa/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nikhilmehlan/Dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nikhilmehlan/Dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
@@ -366,6 +368,7 @@ Happy coding!
 | [0036-valid-sudoku](https://github.com/nikhilmehlan/Dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nikhilmehlan/Dsa/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/nikhilmehlan/Dsa/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nikhilmehlan/Dsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmehlan/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nikhilmehlan/Dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -918,6 +921,7 @@ Happy coding!
 | [0016-3sum-closest](https://github.com/nikhilmehlan/Dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nikhilmehlan/Dsa/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/nikhilmehlan/Dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nikhilmehlan/Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/nikhilmehlan/Dsa/tree/master/0148-sort-list) |
