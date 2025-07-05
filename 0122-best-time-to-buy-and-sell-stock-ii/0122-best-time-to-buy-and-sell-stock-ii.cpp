@@ -1,18 +1,21 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        vector<int> ahead(2, 0), curr(2, 0);
+    int helper(int i,int buy,vector<int>& prices,vector<vector<int>>& dp){
+        if(i==prices.size()) return 0;
 
-        for(int i = n - 1; i >= 0; --i) {
-            // buy == 0: We can buy
-            curr[0] = max(-prices[i] + ahead[1], ahead[0]);
-            // buy == 1: We can sell
-            curr[1] = max(prices[i] + ahead[0], ahead[1]);
-
-            ahead = curr;
+        if(dp[i][buy]!=-1) return dp[i][buy];
+        int profit;
+        if(buy==0){
+            profit=max(-prices[i]+helper(i+1,1,prices,dp),helper(i+1,0,prices,dp));
         }
-
-        return ahead[0]; // Initially, we start at index 0 with permission to buy
+        else{
+            profit=max(prices[i]+helper(i+1,0,prices,dp),helper(i+1,1,prices,dp));
+        }
+        return dp[i][buy]=profit;
+    }
+    int maxProfit(vector<int>& prices) {
+        int n=prices.size();
+        vector<vector<int>> dp(n,vector<int>(2,-1));
+        return helper(0,0,prices,dp);
     }
 };
