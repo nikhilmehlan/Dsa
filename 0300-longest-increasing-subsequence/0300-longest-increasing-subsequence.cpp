@@ -5,7 +5,7 @@ public:
             return 0;
         if (dp[i][prev+1] != -1)
             return dp[i][prev+1];
-        int len = helper(i + 1, prev, nums, dp);
+        int len = helper(i + 1, prev, nums, dp);// notpick
         if (prev == -1 || nums[i] > nums[prev]) {
             len = max(len,1+ helper(i + 1, i, nums, dp));
         }
