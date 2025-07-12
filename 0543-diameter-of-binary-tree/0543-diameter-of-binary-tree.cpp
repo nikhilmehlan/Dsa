@@ -13,12 +13,10 @@ class Solution {
 public:
     int diameter(TreeNode* root,int& maxi){
         if(root==NULL) return 0;
-
-        int left=diameter(root->left,maxi);
-        int right=diameter(root->right,maxi);
-        maxi=max(maxi,left+right);
-
-        return 1+max(left,right);
+        int lh=diameter(root->left,maxi);
+        int rh=diameter(root->right,maxi);
+        maxi=max(maxi,lh+rh);
+        return 1+max(lh,rh);
     }
     int diameterOfBinaryTree(TreeNode* root) {
         int maxi=0;
