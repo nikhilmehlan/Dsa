@@ -1,42 +1,27 @@
-/*
-
-Definition for Binary Tree Node
-struct Node
-{
-    int data;
-    struct Node* left;
-    struct Node* right;
-
-    Node(int x){
-        data = x;
-        left = right = NULL;
-    }
-};
-*/
-
 class Solution {
   public:
-    void helper(vector<vector<int>>& result,vector<int>& path,Node* root){
-        if(root==NULL) return;
-        
+    void getPaths(Node* root, vector<int>& path, vector<vector<int>>& result) {
+        if (!root) return;
+
         path.push_back(root->data);
-        
-        if(!root->left && !root->right){
+
+        // If it's a leaf node, add the path to result
+        if (!root->left && !root->right) {
             result.push_back(path);
+        } else {
+            getPaths(root->left, path, result);
+            getPaths(root->right, path, result);
         }
-        else{
-            helper(result,path,root->left);
-            
-            helper(result,path,root->right);
-        }
-        
+
+        // Backtrack
         path.pop_back();
     }
+
     vector<vector<int>> Paths(Node* root) {
-        // code here
         vector<vector<int>> result;
         vector<int> path;
-        helper(result,path,root);
+
+        getPaths(root, path, result);
         return result;
     }
 };
