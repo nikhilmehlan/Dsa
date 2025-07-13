@@ -92,6 +92,7 @@ Happy coding!
 | [0063-unique-paths-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nikhilmehlan/Dsa/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/nikhilmehlan/Dsa/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmehlan/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhilmehlan/Dsa/tree/master/0075-sort-colors) |
@@ -241,6 +242,7 @@ Happy coding!
 | [0058-length-of-last-word](https://github.com/nikhilmehlan/Dsa/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/nikhilmehlan/Dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/nikhilmehlan/Dsa/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/nikhilmehlan/Dsa/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/nikhilmehlan/Dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nikhilmehlan/Dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
@@ -799,6 +801,7 @@ Happy coding!
 | [0054-spiral-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nikhilmehlan/Dsa/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/nikhilmehlan/Dsa/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmehlan/Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilmehlan/Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
