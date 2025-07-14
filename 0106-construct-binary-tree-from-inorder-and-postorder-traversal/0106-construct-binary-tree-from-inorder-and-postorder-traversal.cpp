@@ -21,19 +21,20 @@ public:
 
         return root;
     }
-    TreeNode* build(vector<int>& postorder, int postStart, int postEnd,
-                    vector<int>& inorder, int inStart, int inEnd,
-                    map<int, int>& inMap) {
-        if (postStart > postEnd || inStart > inEnd) {
+   TreeNode* build(vector<int>& postorder, int ps, int pe, vector<int>& inorder,
+                    int is, int ie, map<int, int>& inMap) {
+        if (ps > pe || is > ie)
             return NULL;
-        }
-        TreeNode* root = new TreeNode(postorder[postEnd]);
-        int inRoot = inMap[root->val];
-        int numsleft = inRoot - inStart;
-        root->left = build(postorder, postStart, postStart + numsleft-1, inorder,
-                           inStart, inRoot - 1, inMap);
-        root->right = build(postorder, postStart + numsleft, postEnd-1, inorder,
-                            inRoot + 1, inEnd, inMap);
+
+        TreeNode* root = new TreeNode(postorder[pe]);
+        int rootI = inMap[root->val];
+        int numsleft = rootI - is;
+
+        root->left = build(postorder, ps, ps + numsleft-1, inorder, is,
+                           rootI - 1, inMap);
+
+        root->right = build(postorder, ps + numsleft, pe-1, inorder, rootI + 1,
+                            ie, inMap);
         return root;
     }
 };
