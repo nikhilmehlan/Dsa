@@ -9,40 +9,38 @@
  */
 class Solution {
 public:
-    void markParents(unordered_map<TreeNode*,TreeNode*>& parent,TreeNode* root){
+    void markParents( unordered_map<TreeNode*,TreeNode*>& parent,TreeNode* root){
         if(!root) return;
-
         queue<TreeNode*> q;
         q.push(root);
         while(!q.empty()){
-            TreeNode* curr=q.front();
+            auto node=q.front();
             q.pop();
-            if(curr->left){
-                parent[curr->left]=curr;
-                q.push(curr->left);
+            if(node->left){
+                q.push(node->left);
+                parent[node->left]=node;
             }
-            if(curr->right){
-                parent[curr->right]=curr;
-                q.push(curr->right);
+            if(node->right){
+                q.push(node->right);
+                parent[node->right]=node;
             }
         }
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         unordered_map<TreeNode*,TreeNode*> parent;
         markParents(parent,root);
-        unordered_map<TreeNode*,bool> vis;
         queue<TreeNode*> q;
         q.push(target);
-        vis[target]=true;
         int curr_level=0;
+        unordered_map<TreeNode*,bool> vis;
+        vis[target]=true;
         while(!q.empty()){
-            int s=q.size();
+            int s=q.size(); 
             if(curr_level==k) break;
             curr_level++;
             for(int i=0;i<s;i++){
-                TreeNode* node=q.front();
+                auto node=q.front();
                 q.pop();
-
                 if(node->left && !vis[node->left]){
                     q.push(node->left);
                     vis[node->left]=true;
@@ -57,13 +55,14 @@ public:
                     vis[parent[node]]=true;
                 }
             }
-        } vector<int> ans;
-
-        while(!q.empty()){
-            TreeNode* curr=q.front();
-            q.pop();
-            ans.push_back(curr->val);
+        
         }
-        return ans;
+        vector<int> temp;
+        while(!q.empty()){
+            auto node=q.front();
+            q.pop();
+            temp.push_back(node->val);
+        }
+        return temp;
     }
 };
