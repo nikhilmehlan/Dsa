@@ -13,32 +13,29 @@
 class Solution {
 public:
     TreeNode* build(vector<int>& preorder, int ps, int pe, vector<int>& inorder,
-                    int is, int ie, map<int, int> & imap) {
-        if (ps > pe || is > ie) 
+                    int is, int ie, map<int, int>& inMap) {
+        if (ps > pe || is > ie)
             return NULL;
 
-            TreeNode* root = new TreeNode(preorder[ps]);
+        TreeNode* root = new TreeNode(preorder[ps]);
+        int rootI = inMap[root->val];
+        int numsleft = rootI - is;
 
-            int inRoot = imap[root->val];
-            int numsleft = inRoot - is;
+        root->left = build(preorder, ps + 1, ps + numsleft, inorder, is,
+                           rootI - 1, inMap);
 
-            root->left = build(preorder, ps + 1, ps + numsleft, inorder, is,
-                               inRoot - 1, imap);
-            root->right = build(preorder, ps + numsleft + 1, pe, inorder,
-                                inRoot + 1, ie, imap);
-            return root;
+        root->right = build(preorder, ps + numsleft + 1, pe, inorder, rootI + 1,
+                            ie, inMap);
+        return root;
+    }
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        map<int, int> inMap;
+        for (int i = 0; i < inorder.size(); i++) {
+            inMap[inorder[i]] = i;
         }
-    
-        TreeNode* buildTree(vector<int> & preorder, vector<int> & inorder) {
-            if (preorder.size() != inorder.size())
-                return NULL;
-            map<int, int> imap;
-            for (int i = 0; i < inorder.size(); i++) {
-                imap[inorder[i]] = i;
-            }
-            TreeNode* root = build(preorder, 0, preorder.size() - 1, inorder, 0,
-                                   inorder.size() - 1, imap);
+        TreeNode* root = build(preorder, 0, preorder.size() - 1, inorder, 0,
+                               inorder.size() - 1, inMap);
 
             return root;
-        }
-    };
+    }
+};
