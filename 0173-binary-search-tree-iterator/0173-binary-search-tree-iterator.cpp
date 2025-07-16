@@ -12,20 +12,20 @@
 class BSTIterator {
 public:
     stack<TreeNode*> st;
-    void pushall(TreeNode* root){
+    void pushAll(TreeNode* root){
         while(root){
             st.push(root);
             root=root->left;
         }
     }
     BSTIterator(TreeNode* root) {
-        pushall(root);
+        pushAll(root);
     }
     
     int next() {
         TreeNode* temp=st.top();
         st.pop();
-        pushall(temp->right);
+        pushAll(temp->right);
         return temp->val;
     }
     
