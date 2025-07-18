@@ -251,6 +251,7 @@ Happy coding!
 | [0072-edit-distance](https://github.com/nikhilmehlan/Dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nikhilmehlan/Dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nikhilmehlan/Dsa/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/nikhilmehlan/Dsa/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/nikhilmehlan/Dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0126-word-ladder-ii) |
@@ -459,6 +460,7 @@ Happy coding!
 | [0070-climbing-stairs](https://github.com/nikhilmehlan/Dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nikhilmehlan/Dsa/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nikhilmehlan/Dsa/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/nikhilmehlan/Dsa/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/nikhilmehlan/Dsa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/0120-triangle) |
