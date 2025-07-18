@@ -467,6 +467,7 @@ Happy coding!
 | [0087-scramble-string](https://github.com/nikhilmehlan/Dsa/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nikhilmehlan/Dsa/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/nikhilmehlan/Dsa/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/nikhilmehlan/Dsa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/0120-triangle) |
@@ -558,6 +559,7 @@ Happy coding!
 | [0066-plus-one](https://github.com/nikhilmehlan/Dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nikhilmehlan/Dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nikhilmehlan/Dsa/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/nikhilmehlan/Dsa/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/nikhilmehlan/Dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
@@ -1029,6 +1031,7 @@ Happy coding!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/nikhilmehlan/Dsa/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0100-same-tree) |
@@ -1068,6 +1071,7 @@ Happy coding!
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/nikhilmehlan/Dsa/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/nikhilmehlan/Dsa/tree/master/0173-binary-search-tree-iterator) |
@@ -1084,6 +1088,7 @@ Happy coding!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/nikhilmehlan/Dsa/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0100-same-tree) |
