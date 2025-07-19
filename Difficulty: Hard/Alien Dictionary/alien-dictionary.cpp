@@ -1,64 +1,54 @@
-
 class Solution {
   public:
     string findOrder(vector<string> &words) {
         // code here
-         unordered_map<char, vector<char>> adj;
-    unordered_map<char, int> indegree;
-    
-    // Initialize indegree for all characters in all words
-    for (auto &word : words) {
-        for (char c : word) {
-            indegree[c] = 0;
-        }
-    }
-
-    // Step 1: Build graph
-    for (int i = 0; i < words.size() - 1; i++) {
-        string w1 = words[i];
-        string w2 = words[i + 1];
-        int len = min(w1.size(), w2.size());
-        bool found = false;
-
-        for (int j = 0; j < len; j++) {
-            if (w1[j] != w2[j]) {
-                adj[w1[j]].push_back(w2[j]);
-                indegree[w2[j]]++;
-                found = true;
-                break;
+        unordered_map<char,int> ind;
+        unordered_map<char,vector<char>> graph;
+        
+        for(auto it:words){
+            for(char c:it){
+                ind[c]=0;
             }
         }
-
-        // Edge case: like ["abc", "ab"] → Invalid order
-        if (!found && w1.size() > w2.size()) {
-            return "";
+        for(int i=0;i<words.size()-1;i++){
+            string str1=words[i];
+            string str2=words[i+1];
+            int len=min(str1.size(),str2.size());
+            
+            bool found=false;
+            for(int i=0;i<len;i++){
+                if(str1[i]!=str2[i]){
+                    graph[str1[i]].push_back(str2[i]);
+                    ind[str2[i]]++;
+                    found=true;
+                    break;
+                }
+            }
+            
+            if(!found && str1.size()> str2.size()){
+                return "";
+            }
         }
-    }
-
-    // Step 2: Topological sort using Kahn's Algorithm (BFS)
-    queue<char> q;
-    for (auto &p : indegree) {
-        if (p.second == 0)
-            q.push(p.first);
-    }
-
-    string result;
-    while (!q.empty()) {
-        char curr = q.front();
-        q.pop();
-        result += curr;
-
-        for (char neighbor : adj[curr]) {
-            indegree[neighbor]--;
-            if (indegree[neighbor] == 0)
-                q.push(neighbor);
+        queue<char> q;
+        for(auto it:ind){
+            if(it.second==0){
+                q.push(it.first);
+            }
         }
-    }
-
-    // If the result size doesn't match number of unique characters, there's a cycle
-    if (result.size() != indegree.size()) return "";
-
-    return result;
+        string res="";
+        while(!q.empty()){
+            auto ch=q.front();
+            q.pop();
+            res+=ch;
+            for(auto it:graph[ch]){
+                ind[it]--;
+                if(ind[it]==0){
+                    q.push(it);
+                }
+            }
+        }
+        if(res.size()!=ind.size()) return "";
+        
+        return res;
     }
 };
-
