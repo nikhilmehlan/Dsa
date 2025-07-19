@@ -178,6 +178,7 @@ Happy coding!
 | [1121-partition-array-for-maximum-sum](https://github.com/nikhilmehlan/Dsa/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmehlan/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilmehlan/Dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilmehlan/Dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -284,6 +285,7 @@ Happy coding!
 | [1170-shortest-common-supersequence](https://github.com/nikhilmehlan/Dsa/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmehlan/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
@@ -533,6 +535,7 @@ Happy coding!
 | [0386-lexicographical-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/nikhilmehlan/Dsa/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmehlan/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhilmehlan/Dsa/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Memoization
 |  |
@@ -1181,6 +1184,7 @@ Happy coding!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/nikhilmehlan/Dsa/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/nikhilmehlan/Dsa/tree/master/1300-critical-connections-in-a-network) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmehlan/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhilmehlan/Dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
