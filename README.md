@@ -196,6 +196,7 @@ Happy coding!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilmehlan/Dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/2047-find-a-peak-element-ii) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmehlan/Dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nikhilmehlan/Dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/nikhilmehlan/Dsa/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nikhilmehlan/Dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -292,6 +293,7 @@ Happy coding!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilmehlan/Dsa/tree/master/2032-largest-odd-number-in-string) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmehlan/Dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmehlan/Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -439,6 +441,7 @@ Happy coding!
 | [1510-find-lucky-integer-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmehlan/Dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nikhilmehlan/Dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -537,6 +540,7 @@ Happy coding!
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/nikhilmehlan/Dsa/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmehlan/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhilmehlan/Dsa/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmehlan/Dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Memoization
 |  |
 | ------- |
@@ -1287,4 +1291,5 @@ Happy coding!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmehlan/Dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
