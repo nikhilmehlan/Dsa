@@ -47,26 +47,27 @@ class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
         DisjointSet ds(n);
-        int extra = 0;
-        for (auto it : connections) {
-            int u = it[0];
-            int v = it[1];
+        int extra=0;
+        for(auto it:connections){
+            int u=it[0];
+            int v=it[1];
 
-            if (ds.findUPar(u) == ds.findUPar(v)) {
+            if(ds.findUPar(u)==ds.findUPar(v)){
                 extra++;
-            } else {
-                ds.unionByRank(u, v);
+            }
+            else{
+                ds.unionByRank(u,v);       }
+
+        }
+        int comp=0;
+        for(int i=0;i<n;i++){
+            if(i==ds.parent[i]){
+                comp++;
             }
         }
-        int comp = 0;
-        for (int i = 0; i < n; i++) {
-            if (ds.parent[i] == i)
-                comp++;
-        }
-        int ans = comp - 1;
-        if (extra >= ans)
-            return ans;
-        else
-            return -1;
+        int ans=comp-1;
+        if(extra>=ans) return ans;
+
+        return -1;
     }
 };
