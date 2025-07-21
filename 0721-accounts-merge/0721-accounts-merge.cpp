@@ -47,41 +47,43 @@ public:
         }
     }
 };
+
 class Solution {
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
         int n = accounts.size();
         DisjointSet ds(n);
-        unordered_map<string, int> mapNode; // mail -> parent account index
 
-        // Step 1: Union emails
-        for (int i = 0; i < n; i++) {
-            for (int j = 1; j < accounts[i].size(); j++) {
+        unordered_map<string, int> mapNode; // maps email to account index
+
+        for(int i = 0; i < n; i++) {
+            for(int j = 1; j < accounts[i].size(); j++) {
                 string mail = accounts[i][j];
-                if (mapNode.find(mail) == mapNode.end()) {
+                if(mapNode.find(mail) == mapNode.end()) {
                     mapNode[mail] = i;
                 } else {
-                    ds.unionBySize(i, mapNode[mail]);
+                    ds.unionByRank(i, mapNode[mail]);
                 }
             }
         }
 
-        // Step 2: Group emails by parent
-        vector<vector<string>> mergedMails(n);
-        for (auto& it : mapNode) {
+        // Collect emails by their representative parent
+        vector<string> merged[n];
+        for(auto& it : mapNode) {
             string mail = it.first;
             int node = ds.findUPar(it.second);
-            mergedMails[node].push_back(mail);
+            merged[node].push_back(mail);
         }
 
-        // Step 3: Prepare final answer
+        // Build final answer
         vector<vector<string>> ans;
-        for (int i = 0; i < n; i++) {
-            if (mergedMails[i].empty()) continue;
-            sort(mergedMails[i].begin(), mergedMails[i].end());
+        for(int i = 0; i < n; i++) {
+            if(merged[i].empty()) continue;
+
+            sort(merged[i].begin(), merged[i].end());
             vector<string> temp;
-            temp.push_back(accounts[i][0]); // the name
-            temp.insert(temp.end(), mergedMails[i].begin(), mergedMails[i].end());
+            temp.push_back(accounts[i][0]); // account name
+            temp.insert(temp.end(), merged[i].begin(), merged[i].end());
             ans.push_back(temp);
         }
 
