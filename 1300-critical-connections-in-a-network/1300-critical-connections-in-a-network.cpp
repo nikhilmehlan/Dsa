@@ -4,21 +4,22 @@ public:
     void dfs(int node, int parent, vector<vector<int>>& adj, vector<int>& vis,
              vector<int>& tin, vector<int>& low, vector<vector<int>>& bridges) {
 
-        vis[node] = 1;
-        low[node] = tin[node] = timer;
+        vis[node]=1;
+        tin[node]=low[node]=timer;
         timer++;
-        for (auto it : adj[node]) {
-            if (it == parent)
-                continue;
-            if (vis[it] == 0) {
-                dfs(it, node, adj, vis, tin, low, bridges);
-                low[node] = min(low[it], low[node]);
+        for(auto it:adj[node]){
+            if(it==parent) continue;
+            if(vis[it]==0){
+                dfs(it,node,adj,vis,tin,low,bridges);
 
-                if (low[it] > tin[node]) {
-                    bridges.push_back({node, it});
+                low[node]=min(low[node],low[it]);
+                if(low[it]> tin[node]){
+                    bridges.push_back({node,it});
                 }
-            } else {
-                low[node] = min(low[it], low[node]);
+            }
+            else{
+                low[node]=min(low[node],low[it]);
+                
             }
         }
     }
