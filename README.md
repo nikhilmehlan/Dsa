@@ -192,6 +192,7 @@ Happy coding!
 | [1646-kth-missing-positive-number](https://github.com/nikhilmehlan/Dsa/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nikhilmehlan/Dsa/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
+| [1813-maximum-erasure-value](https://github.com/nikhilmehlan/Dsa/tree/master/1813-maximum-erasure-value) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhilmehlan/Dsa/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilmehlan/Dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -440,6 +441,7 @@ Happy coding!
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/nikhilmehlan/Dsa/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilmehlan/Dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmehlan/Dsa/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -896,6 +898,7 @@ Happy coding!
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilmehlan/Dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/nikhilmehlan/Dsa/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Monotonic Queue
 |  |
