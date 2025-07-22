@@ -42,51 +42,48 @@ public:
         int dr[] = {-1, 0, 1, 0};
         int dc[] = {0, 1, 0, -1};
 
-        // 1. Union all connected 1s
+        // Step 1: Union all 1s
         for (int row = 0; row < n; ++row) {
             for (int col = 0; col < n; ++col) {
                 if (grid[row][col] == 0) continue;
                 for (int i = 0; i < 4; ++i) {
-                    int nr = row + dr[i];
-                    int nc = col + dc[i];
-                    if (nr >= 0 && nr < n && nc >= 0 && nc < n && grid[nr][nc] == 1) {
+                    int nr = row + dr[i], nc = col + dc[i];
+                    if (nr >= 0 && nc >= 0 && nr < n && nc < n && grid[nr][nc] == 1) {
                         int node = row * n + col;
-                        int adjNode = nr * n + nc;
-                        ds.unionBySize(node, adjNode);
+                        int adj = nr * n + nc;
+                        ds.unionBySize(node, adj);
                     }
                 }
             }
         }
 
-        int maxSize = 0;
-
-        // 2. Try flipping each 0 and calculate the connected component size
+        // Step 2: Check for 0s and calculate potential island size
+        int maxIsland = 0;
         for (int row = 0; row < n; ++row) {
             for (int col = 0; col < n; ++col) {
                 if (grid[row][col] == 1) continue;
 
                 set<int> components;
                 for (int i = 0; i < 4; ++i) {
-                    int nr = row + dr[i];
-                    int nc = col + dc[i];
-                    if (nr >= 0 && nr < n && nc >= 0 && nc < n && grid[nr][nc] == 1) {
-                        int adjNode = nr * n + nc;
-                        components.insert(ds.findUPar(adjNode));
+                    int nr = row + dr[i], nc = col + dc[i];
+                    if (nr >= 0 && nc >= 0 && nr < n && nc < n && grid[nr][nc] == 1) {
+                        components.insert(ds.findUPar(nr * n + nc));
                     }
                 }
 
-                int totalSize = 1; // Include the flipped cell
-                for (int comp : components)
+                int totalSize = 1;  // converting this 0 to 1
+                for (int comp : components) {
                     totalSize += ds.size[comp];
-
-                maxSize = max(maxSize, totalSize);
+                }
+                maxIsland = max(maxIsland, totalSize);
             }
         }
 
-        // 3. Handle case where all 1s (no 0 to flip)
-        for (int i = 0; i < n * n; ++i)
-            maxSize = max(maxSize, ds.size[ds.findUPar(i)]);
+        // Edge case: No zero exists, so take max of any connected island
+        for (int i = 0; i < n * n; ++i) {
+            maxIsland = max(maxIsland, ds.size[ds.findUPar(i)]);
+        }
 
-        return maxSize;
+        return maxIsland;
     }
 };
