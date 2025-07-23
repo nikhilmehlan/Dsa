@@ -293,6 +293,7 @@ Happy coding!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilmehlan/Dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmehlan/Dsa/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -689,6 +690,7 @@ Happy coding!
 | [1078-remove-outermost-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/nikhilmehlan/Dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -865,6 +867,7 @@ Happy coding!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilmehlan/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikhilmehlan/Dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmehlan/Dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilmehlan/Dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
