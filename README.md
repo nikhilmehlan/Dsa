@@ -210,6 +210,7 @@ Happy coding!
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilmehlan/Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhilmehlan/Dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhilmehlan/Dsa/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/nikhilmehlan/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nikhilmehlan/Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -384,6 +385,7 @@ Happy coding!
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhilmehlan/Dsa/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilmehlan/Dsa/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhilmehlan/Dsa/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/nikhilmehlan/Dsa/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1085,6 +1087,7 @@ Happy coding!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhilmehlan/Dsa/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilmehlan/Dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1198,6 +1201,7 @@ Happy coding!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmehlan/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhilmehlan/Dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilmehlan/Dsa/tree/master/1753-path-with-minimum-effort) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhilmehlan/Dsa/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilmehlan/Dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
