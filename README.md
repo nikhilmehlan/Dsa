@@ -126,6 +126,7 @@ Happy coding!
 | [0213-house-robber-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nikhilmehlan/Dsa/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/nikhilmehlan/Dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -419,6 +420,7 @@ Happy coding!
 | [0169-majority-element](https://github.com/nikhilmehlan/Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/nikhilmehlan/Dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhilmehlan/Dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
@@ -1013,6 +1015,7 @@ Happy coding!
 | [0148-sort-list](https://github.com/nikhilmehlan/Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhilmehlan/Dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nikhilmehlan/Dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhilmehlan/Dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
