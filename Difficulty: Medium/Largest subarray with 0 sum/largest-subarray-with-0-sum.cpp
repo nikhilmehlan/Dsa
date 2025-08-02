@@ -1,27 +1,23 @@
-/*You are required to complete this function*/
-
 class Solution {
   public:
-    int maxLen(vector<int>& arr) {
+    int maxLength(vector<int>& arr) {
         // code here
-        int k=0;
+        int n=arr.size();
         unordered_map<int,int> mpp;
         int sum=0;
-        int len=0;
-        for(int i=0;i<arr.size();i++){
+        int maxlen=0;
+        for(int i=0;i<n;i++){
             sum+=arr[i];
-            if(sum==k){
-                len=max(len,i+1);
+            if(sum==0){
+                maxlen=i+1;
             }
-            int rem=sum-k;
-            if(mpp.find(rem)!=mpp.end()){
-                int l=i-mpp[rem];
-                len=max(len,l);
+            else if(mpp.find(sum)!=mpp.end()){
+                maxlen=max(maxlen,i-mpp[sum]);
             }
-            if(mpp.find(sum)==mpp.end()){
+            else{
                 mpp[sum]=i;
             }
         }
-        return len;
+        return maxlen;
     }
 };
