@@ -6,12 +6,14 @@ class Solution {
         int xr=0;
         map<int,int> mpp;
         mpp[0]=1;
-        for(int i=0;i<arr.size();i++){
+        int n=arr.size();
+        for(int i=0;i<n;i++){
             xr=xr^arr[i];
-            int rem=xr^k;
             
-            if(mpp.find(rem)!=mpp.end()){
-                cnt+=mpp[rem];
+            int req=xr^k;
+            
+            if(mpp.find(req)!=mpp.end()){
+                cnt+=mpp[req];
             }
             
             mpp[xr]++;
