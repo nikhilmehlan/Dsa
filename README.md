@@ -646,6 +646,7 @@ Happy coding!
 | [0222-count-complete-tree-nodes](https://github.com/nikhilmehlan/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/nikhilmehlan/Dsa/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilmehlan/Dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1332,4 +1333,8 @@ Happy coding!
 | [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmehlan/Dsa/tree/master/2079-delete-duplicate-folders-in-system) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nikhilmehlan/Dsa/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
