@@ -224,6 +224,7 @@ Happy coding!
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/nikhilmehlan/Dsa/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilmehlan/Dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2737-row-with-maximum-ones](https://github.com/nikhilmehlan/Dsa/tree/master/2737-row-with-maximum-ones) |
 | [2792-neighboring-bitwise-xor](https://github.com/nikhilmehlan/Dsa/tree/master/2792-neighboring-bitwise-xor) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/nikhilmehlan/Dsa/tree/master/3194-find-words-containing-character) |
@@ -380,6 +381,7 @@ Happy coding!
 | [2047-find-a-peak-element-ii](https://github.com/nikhilmehlan/Dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/nikhilmehlan/Dsa/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
+| [2737-row-with-maximum-ones](https://github.com/nikhilmehlan/Dsa/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
