@@ -173,6 +173,7 @@ Happy coding!
 | [0945-snakes-and-ladders](https://github.com/nikhilmehlan/Dsa/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0967-minimum-falling-path-sum) |
+| [1022-unique-paths-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/nikhilmehlan/Dsa/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1046-max-consecutive-ones-iii) |
@@ -349,6 +350,7 @@ Happy coding!
 | [0216-combination-sum-iii](https://github.com/nikhilmehlan/Dsa/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0494-target-sum) |
+| [1022-unique-paths-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1022-unique-paths-iii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Matrix
 |  |
@@ -374,6 +376,7 @@ Happy coding!
 | [0854-making-a-large-island](https://github.com/nikhilmehlan/Dsa/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmehlan/Dsa/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0967-minimum-falling-path-sum) |
+| [1022-unique-paths-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/nikhilmehlan/Dsa/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nikhilmehlan/Dsa/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -400,6 +403,7 @@ Happy coding!
 | [0287-find-the-duplicate-number](https://github.com/nikhilmehlan/Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/nikhilmehlan/Dsa/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1022-unique-paths-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1022-unique-paths-iii) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhilmehlan/Dsa/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilmehlan/Dsa/tree/master/2323-minimum-bit-flips-to-convert-number) |
