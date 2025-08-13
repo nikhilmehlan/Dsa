@@ -612,6 +612,7 @@ Happy coding!
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nikhilmehlan/Dsa/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/nikhilmehlan/Dsa/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/nikhilmehlan/Dsa/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/nikhilmehlan/Dsa/tree/master/0368-largest-divisible-subset) |
 | [0900-reordered-power-of-2](https://github.com/nikhilmehlan/Dsa/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
@@ -642,6 +643,7 @@ Happy coding!
 | [0206-reverse-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nikhilmehlan/Dsa/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/nikhilmehlan/Dsa/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhilmehlan/Dsa/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/2050-count-good-numbers) |
