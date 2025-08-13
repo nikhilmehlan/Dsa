@@ -1,8 +1,7 @@
 class Solution {
 public:
     bool isPowerOfThree(int n) {
-        if (n <= 0) return false;
-    while (n % 3 == 0) n /= 3;
-    return n == 1;
+       const int MAX_POW3 = 1162261467; // 3^19
+    return n > 0 && (MAX_POW3 % n == 0);
     }
 };
