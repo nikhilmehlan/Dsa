@@ -622,6 +622,7 @@ Happy coding!
 | [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilmehlan/Dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/nikhilmehlan/Dsa/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmehlan/Dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilmehlan/Dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/2050-count-good-numbers) |
@@ -921,6 +922,7 @@ Happy coding!
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/nikhilmehlan/Dsa/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilmehlan/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1448-maximum-69-number](https://github.com/nikhilmehlan/Dsa/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikhilmehlan/Dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmehlan/Dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nikhilmehlan/Dsa/tree/master/1818-maximum-score-from-removing-substrings) |
