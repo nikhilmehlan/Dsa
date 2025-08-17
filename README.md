@@ -1392,4 +1392,8 @@ Happy coding!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nikhilmehlan/Dsa/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/nikhilmehlan/Dsa/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
