@@ -2,17 +2,22 @@ class Solution {
 public:
     long long maximumTripletValue(vector<int>& nums) {
         int n = nums.size();
-        long long maxi = LLONG_MIN;
+        vector<int> suffixMax(n);
         
-        for (int i = 0; i < n - 2; i++) {
-            for (int j = i + 1; j < n - 1; j++) {
-                for (int k = j + 1; k < n; k++) {
-                    long long val = (long long)(nums[i] - nums[j]) * nums[k];
-                    maxi = max(maxi, val);
-                }
-            }
+        suffixMax[n-1] = nums[n-1];
+        for (int i = n-2; i >= 0; i--) {
+            suffixMax[i] = max(nums[i], suffixMax[i+1]);
         }
         
-        return maxi < 0 ? 0 : maxi;
+        long long ans = 0;
+        int maxLeft = nums[0];
+        
+        for (int j = 1; j < n-1; j++) {
+            long long val = (long long)(maxLeft - nums[j]) * suffixMax[j+1];
+            ans = max(ans, val);
+            maxLeft = max(maxLeft, nums[j]);
+        }
+        
+        return ans;
     }
 };
