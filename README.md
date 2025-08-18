@@ -328,6 +328,7 @@ Happy coding!
 | [3194-find-words-containing-character](https://github.com/nikhilmehlan/Dsa/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmehlan/Dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhilmehlan/Dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3617-find-the-original-typed-string-i](https://github.com/nikhilmehlan/Dsa/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilmehlan/Dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -360,6 +361,7 @@ Happy coding!
 | [0679-24-game](https://github.com/nikhilmehlan/Dsa/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1022-unique-paths-iii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhilmehlan/Dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
 | ------- |
@@ -422,6 +424,7 @@ Happy coding!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/nikhilmehlan/Dsa/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhilmehlan/Dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
