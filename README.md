@@ -227,6 +227,7 @@ Happy coding!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhilmehlan/Dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/nikhilmehlan/Dsa/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/nikhilmehlan/Dsa/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilmehlan/Dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -494,6 +495,7 @@ Happy coding!
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2479-meeting-rooms-iii](https://github.com/nikhilmehlan/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/nikhilmehlan/Dsa/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmehlan/Dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -979,6 +981,7 @@ Happy coding!
 | [1813-maximum-erasure-value](https://github.com/nikhilmehlan/Dsa/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nikhilmehlan/Dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhilmehlan/Dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
