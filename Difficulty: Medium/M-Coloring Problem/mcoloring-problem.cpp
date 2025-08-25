@@ -1,52 +1,35 @@
 class Solution {
-public:
-    // Function to check if it is safe to assign the color to the current node
-    bool isSafe(int node, vector<int>& color, vector<vector<int>>& graph, int col) {
-        for (int neighbor : graph[node]) {
-            if (color[neighbor] == col) {
-                return false;  // If the neighbor has the same color, it's not safe
-            }
+  public:
+    bool safe(int node,int col,vector<int>& color,vector<vector<int>> &graph){
+        
+        for(auto nei:graph[node]){
+            if(color[nei]==col) return false;
         }
         return true;
     }
-
-    // Backtracking function to try coloring the graph
-    bool graphColoringUtil(int node, int m, vector<int>& color, vector<vector<int>>& graph, int v) {
-        if (node == v) {
-            return true;  // All vertices have been assigned a color
-        }
+    bool solve(int node,vector<vector<int>> &graph,int n,int m,vector<int>& color){
+        if(node==n) return true;
         
-        // Try assigning colors from 1 to m
-        for (int col = 1; col <= m; col++) {
-            if (isSafe(node, color, graph, col)) {
-                color[node] = col;  // Assign color `col` to vertex `node`
-                
-                // Recur to assign colors to the rest of the vertices
-                if (graphColoringUtil(node + 1, m, color, graph, v)) {
-                    return true;
-                }
-
-                // Backtrack if coloring does not lead to a solution
-                color[node] = 0;
+        for(int i=1;i<=m;i++){
+            if(safe(node,i,color,graph)){
+                color[node]=i;
+                if(solve(node+1,graph,n,m,color)) return true;
+                color[node]=0;
             }
         }
-        
-        return false;  // If no color can be assigned, return false
+        return false;
     }
-
-    // Main function to check if graph can be colored with at most m colors
-    bool graphColoring(int v, vector<vector<int>>& edges, int m) {
+    bool graphColoring(int v, vector<vector<int>> &edges, int m) {
+        // code here
         vector<vector<int>> graph(v);
-        
-        // Build the adjacency list from the edges
-        for (auto edge : edges) {
-            graph[edge[0]].push_back(edge[1]);
-            graph[edge[1]].push_back(edge[0]);  // Undirected graph
+        for(int i=0;i<edges.size();i++){
+            int u=edges[i][0];
+            int w=edges[i][1];
+            graph[u].push_back(w);
+            graph[w].push_back(u);
         }
-        
-        vector<int> color(v, 0);  // Color array initialized to 0 (no color assigned)
-        
-        // Start the coloring process from the first vertex (vertex 0)
-        return graphColoringUtil(0, m, color, graph, v);
+        vector<int> color(v,0);
+        if (solve(0,graph,v,m,color)) return true;
+        return false;
     }
 };
