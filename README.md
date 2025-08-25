@@ -187,6 +187,7 @@ Happy coding!
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmehlan/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilmehlan/Dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilmehlan/Dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -312,6 +313,7 @@ Happy coding!
 | [1250-longest-common-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nikhilmehlan/Dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmehlan/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/nikhilmehlan/Dsa/tree/master/1508-longest-happy-prefix) |
@@ -362,6 +364,7 @@ Happy coding!
 | [0494-target-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/nikhilmehlan/Dsa/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1022-unique-paths-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhilmehlan/Dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
@@ -416,6 +419,7 @@ Happy coding!
 | [0338-counting-bits](https://github.com/nikhilmehlan/Dsa/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1022-unique-paths-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1022-unique-paths-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhilmehlan/Dsa/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilmehlan/Dsa/tree/master/2323-minimum-bit-flips-to-convert-number) |
