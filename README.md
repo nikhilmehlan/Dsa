@@ -186,6 +186,7 @@ Happy coding!
 | [1121-partition-array-for-maximum-sum](https://github.com/nikhilmehlan/Dsa/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1293-three-consecutive-odds](https://github.com/nikhilmehlan/Dsa/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmehlan/Dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilmehlan/Dsa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
