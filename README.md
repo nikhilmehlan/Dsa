@@ -248,6 +248,7 @@ Happy coding!
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nikhilmehlan/Dsa/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/nikhilmehlan/Dsa/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilmehlan/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3791-fruits-into-baskets-iii) |
@@ -406,6 +407,7 @@ Happy coding!
 | [2145-grid-game](https://github.com/nikhilmehlan/Dsa/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/nikhilmehlan/Dsa/tree/master/2737-row-with-maximum-ones) |
+| [3748-sort-matrix-by-diagonals](https://github.com/nikhilmehlan/Dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1136,6 +1138,7 @@ Happy coding!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmehlan/Dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/nikhilmehlan/Dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Quickselect
 |  |
 | ------- |
