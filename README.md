@@ -440,6 +440,7 @@ Happy coding!
 | [2529-range-product-queries-of-powers](https://github.com/nikhilmehlan/Dsa/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/nikhilmehlan/Dsa/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nikhilmehlan/Dsa/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhilmehlan/Dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -732,6 +733,7 @@ Happy coding!
 | [0900-reordered-power-of-2](https://github.com/nikhilmehlan/Dsa/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmehlan/Dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nikhilmehlan/Dsa/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nikhilmehlan/Dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilmehlan/Dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -745,6 +747,7 @@ Happy coding!
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhilmehlan/Dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilmehlan/Dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nikhilmehlan/Dsa/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Stack
 |  |
 | ------- |
