@@ -338,6 +338,7 @@ Happy coding!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhilmehlan/Dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2577-count-palindromic-subsequences](https://github.com/nikhilmehlan/Dsa/tree/master/2577-count-palindromic-subsequences) |
+| [2887-sort-vowels-in-a-string](https://github.com/nikhilmehlan/Dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/nikhilmehlan/Dsa/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmehlan/Dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1159,6 +1160,7 @@ Happy coding!
 | [2479-meeting-rooms-iii](https://github.com/nikhilmehlan/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nikhilmehlan/Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/nikhilmehlan/Dsa/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/nikhilmehlan/Dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikhilmehlan/Dsa/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nikhilmehlan/Dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmehlan/Dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
