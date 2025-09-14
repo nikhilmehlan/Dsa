@@ -178,6 +178,7 @@ Happy coding!
 | [0948-sort-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0967-minimum-falling-path-sum) |
+| [1006-vowel-spellchecker](https://github.com/nikhilmehlan/Dsa/tree/master/1006-vowel-spellchecker) |
 | [1022-unique-paths-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/nikhilmehlan/Dsa/tree/master/1036-rotting-oranges) |
@@ -315,6 +316,7 @@ Happy coding!
 | [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/nikhilmehlan/Dsa/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilmehlan/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/nikhilmehlan/Dsa/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmehlan/Dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nikhilmehlan/Dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
@@ -500,6 +502,7 @@ Happy coding!
 | [0940-fruit-into-baskets](https://github.com/nikhilmehlan/Dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhilmehlan/Dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1006-vowel-spellchecker](https://github.com/nikhilmehlan/Dsa/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
