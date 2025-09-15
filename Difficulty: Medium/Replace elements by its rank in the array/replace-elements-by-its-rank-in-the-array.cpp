@@ -3,19 +3,24 @@
 class Solution {
   public:
 
-    vector<int> replaceWithRank(vector<int> &arr, int n) {
-        map<int,int> mpp;
-        vector<int> sorted=arr;
-        sort(sorted.begin(),sorted.end());
+    vector<int> replaceWithRank(vector<int> &arr, int N) {
+        priority_queue<int,vector<int>,greater<int>> pq;
+        for(int num:arr){
+            pq.push(num);
+        }
         int rank=1;
-        for(int i=0;i<n;i++){
-          if (mpp.find(sorted[i]) == mpp.end()) {
-                mpp[sorted[i]] = rank++;
-            }  
+        map<int,int> mpp;
+        while(!pq.empty()){
+            int num=pq.top();
+            pq.pop();
+            if(mpp.find(num)==mpp.end()){
+                mpp[num]=rank;
+                rank++;
+            }
         }
         vector<int> result;
-        for(auto it:arr){
-            result.push_back(mpp[it]);
+        for(int i=0;i<N;i++){
+            result.push_back(mpp[arr[i]]);
         }
         return result;
     }
