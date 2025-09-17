@@ -229,6 +229,7 @@ Happy coding!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhilmehlan/Dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhilmehlan/Dsa/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/nikhilmehlan/Dsa/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/nikhilmehlan/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nikhilmehlan/Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhilmehlan/Dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -340,6 +341,7 @@ Happy coding!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmehlan/Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikhilmehlan/Dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/nikhilmehlan/Dsa/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2577-count-palindromic-subsequences](https://github.com/nikhilmehlan/Dsa/tree/master/2577-count-palindromic-subsequences) |
 | [2887-sort-vowels-in-a-string](https://github.com/nikhilmehlan/Dsa/tree/master/2887-sort-vowels-in-a-string) |
@@ -518,6 +520,7 @@ Happy coding!
 | [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmehlan/Dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nikhilmehlan/Dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmehlan/Dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2429-design-a-food-rating-system](https://github.com/nikhilmehlan/Dsa/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikhilmehlan/Dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2479-meeting-rooms-iii](https://github.com/nikhilmehlan/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -813,6 +816,7 @@ Happy coding!
 | [0460-lfu-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/nikhilmehlan/Dsa/tree/master/0937-online-stock-span) |
+| [2429-design-a-food-rating-system](https://github.com/nikhilmehlan/Dsa/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -946,6 +950,7 @@ Happy coding!
 | [1917-maximum-average-pass-ratio](https://github.com/nikhilmehlan/Dsa/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nikhilmehlan/Dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhilmehlan/Dsa/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/nikhilmehlan/Dsa/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/nikhilmehlan/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
@@ -1435,6 +1440,7 @@ Happy coding!
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2429-design-a-food-rating-system](https://github.com/nikhilmehlan/Dsa/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3791-fruits-into-baskets-iii) |
 ## Bitmask
