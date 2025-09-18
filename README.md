@@ -530,6 +530,7 @@ Happy coding!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmehlan/Dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/nikhilmehlan/Dsa/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhilmehlan/Dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmehlan/Dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilmehlan/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -817,6 +818,7 @@ Happy coding!
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilmehlan/Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/nikhilmehlan/Dsa/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/nikhilmehlan/Dsa/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/nikhilmehlan/Dsa/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -954,6 +956,7 @@ Happy coding!
 | [2479-meeting-rooms-iii](https://github.com/nikhilmehlan/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/nikhilmehlan/Dsa/tree/master/3678-design-task-manager) |
 ## Simulation
 |  |
 | ------- |
@@ -1441,6 +1444,7 @@ Happy coding!
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilmehlan/Dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/nikhilmehlan/Dsa/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/nikhilmehlan/Dsa/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3791-fruits-into-baskets-iii) |
 ## Bitmask
