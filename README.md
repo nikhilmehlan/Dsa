@@ -261,6 +261,7 @@ Happy coding!
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/nikhilmehlan/Dsa/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/nikhilmehlan/Dsa/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -538,6 +539,7 @@ Happy coding!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmehlan/Dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilmehlan/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/nikhilmehlan/Dsa/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/nikhilmehlan/Dsa/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -748,6 +750,7 @@ Happy coding!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilmehlan/Dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/nikhilmehlan/Dsa/tree/master/3827-implement-router) |
 ## Enumeration
 |  |
 | ------- |
@@ -824,6 +827,7 @@ Happy coding!
 | [2429-design-a-food-rating-system](https://github.com/nikhilmehlan/Dsa/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/nikhilmehlan/Dsa/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/nikhilmehlan/Dsa/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/nikhilmehlan/Dsa/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -831,6 +835,7 @@ Happy coding!
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmehlan/Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nikhilmehlan/Dsa/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nikhilmehlan/Dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/nikhilmehlan/Dsa/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1452,6 +1457,7 @@ Happy coding!
 | [3678-design-task-manager](https://github.com/nikhilmehlan/Dsa/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/nikhilmehlan/Dsa/tree/master/3827-implement-router) |
 ## Bitmask
 |  |
 | ------- |
