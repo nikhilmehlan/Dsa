@@ -306,6 +306,7 @@ Happy coding!
 | [0139-word-break](https://github.com/nikhilmehlan/Dsa/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhilmehlan/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nikhilmehlan/Dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/nikhilmehlan/Dsa/tree/master/0214-shortest-palindrome) |
@@ -487,6 +488,7 @@ Happy coding!
 | [0142-linked-list-cycle-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nikhilmehlan/Dsa/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilmehlan/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nikhilmehlan/Dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/nikhilmehlan/Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nikhilmehlan/Dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilmehlan/Dsa/tree/master/0208-implement-trie-prefix-tree) |
@@ -668,6 +670,7 @@ Happy coding!
 | [0067-add-binary](https://github.com/nikhilmehlan/Dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nikhilmehlan/Dsa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/nikhilmehlan/Dsa/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nikhilmehlan/Dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/nikhilmehlan/Dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nikhilmehlan/Dsa/tree/master/0231-power-of-two) |
