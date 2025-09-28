@@ -179,6 +179,7 @@ Happy coding!
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/nikhilmehlan/Dsa/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/nikhilmehlan/Dsa/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/nikhilmehlan/Dsa/tree/master/1036-rotting-oranges) |
@@ -681,6 +682,7 @@ Happy coding!
 | [0679-24-game](https://github.com/nikhilmehlan/Dsa/tree/master/0679-24-game) |
 | [0900-reordered-power-of-2](https://github.com/nikhilmehlan/Dsa/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/nikhilmehlan/Dsa/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilmehlan/Dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1012,6 +1014,7 @@ Happy coding!
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/nikhilmehlan/Dsa/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilmehlan/Dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/nikhilmehlan/Dsa/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikhilmehlan/Dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmehlan/Dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1187,6 +1190,7 @@ Happy coding!
 | [0876-hand-of-straights](https://github.com/nikhilmehlan/Dsa/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/nikhilmehlan/Dsa/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/nikhilmehlan/Dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilmehlan/Dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/nikhilmehlan/Dsa/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikhilmehlan/Dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
