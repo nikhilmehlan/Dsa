@@ -166,6 +166,7 @@ Happy coding!
 | [0721-accounts-merge](https://github.com/nikhilmehlan/Dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhilmehlan/Dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
+| [0741-cherry-pickup](https://github.com/nikhilmehlan/Dsa/tree/master/0741-cherry-pickup) |
 | [0792-binary-search](https://github.com/nikhilmehlan/Dsa/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/nikhilmehlan/Dsa/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/nikhilmehlan/Dsa/tree/master/0854-making-a-large-island) |
@@ -414,6 +415,7 @@ Happy coding!
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmehlan/Dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/nikhilmehlan/Dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nikhilmehlan/Dsa/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/nikhilmehlan/Dsa/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/nikhilmehlan/Dsa/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/nikhilmehlan/Dsa/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmehlan/Dsa/tree/master/0945-snakes-and-ladders) |
@@ -603,6 +605,7 @@ Happy coding!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilmehlan/Dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilmehlan/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilmehlan/Dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0741-cherry-pickup](https://github.com/nikhilmehlan/Dsa/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilmehlan/Dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilmehlan/Dsa/tree/master/0967-minimum-falling-path-sum) |
