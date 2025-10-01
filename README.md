@@ -694,6 +694,7 @@ Happy coding!
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhilmehlan/Dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/nikhilmehlan/Dsa/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmehlan/Dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/nikhilmehlan/Dsa/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilmehlan/Dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nikhilmehlan/Dsa/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -995,6 +996,7 @@ Happy coding!
 | [0067-add-binary](https://github.com/nikhilmehlan/Dsa/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/nikhilmehlan/Dsa/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/nikhilmehlan/Dsa/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/nikhilmehlan/Dsa/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/nikhilmehlan/Dsa/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmehlan/Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilmehlan/Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
