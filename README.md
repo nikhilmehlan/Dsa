@@ -263,6 +263,7 @@ Happy coding!
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/nikhilmehlan/Dsa/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nikhilmehlan/Dsa/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -784,6 +785,7 @@ Happy coding!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilmehlan/Dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nikhilmehlan/Dsa/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/nikhilmehlan/Dsa/tree/master/3827-implement-router) |
@@ -1094,6 +1096,7 @@ Happy coding!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhilmehlan/Dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nikhilmehlan/Dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1155,6 +1158,7 @@ Happy coding!
 | [3618-find-the-original-typed-string-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/nikhilmehlan/Dsa/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
@@ -1247,6 +1251,7 @@ Happy coding!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmehlan/Dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nikhilmehlan/Dsa/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nikhilmehlan/Dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Quickselect
