@@ -373,6 +373,7 @@ Happy coding!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilmehlan/Dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhilmehlan/Dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmehlan/Dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/nikhilmehlan/Dsa/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
@@ -723,6 +724,7 @@ Happy coding!
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nikhilmehlan/Dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmehlan/Dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/nikhilmehlan/Dsa/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -802,6 +804,7 @@ Happy coding!
 | ------- |
 | [0204-count-primes](https://github.com/nikhilmehlan/Dsa/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nikhilmehlan/Dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1022,6 +1025,7 @@ Happy coding!
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nikhilmehlan/Dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/nikhilmehlan/Dsa/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmehlan/Dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -1501,6 +1505,7 @@ Happy coding!
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilmehlan/Dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nikhilmehlan/Dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikhilmehlan/Dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Ordered Set
 |  |
 | ------- |
