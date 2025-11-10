@@ -277,6 +277,7 @@ Happy coding!
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/nikhilmehlan/Dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/nikhilmehlan/Dsa/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/nikhilmehlan/Dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
@@ -573,6 +574,7 @@ Happy coding!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilmehlan/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/nikhilmehlan/Dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/nikhilmehlan/Dsa/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/nikhilmehlan/Dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -860,6 +862,7 @@ Happy coding!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nikhilmehlan/Dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmehlan/Dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmehlan/Dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/nikhilmehlan/Dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
@@ -901,6 +904,7 @@ Happy coding!
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilmehlan/Dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilmehlan/Dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/nikhilmehlan/Dsa/tree/master/2227-sum-of-subarray-ranges) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/nikhilmehlan/Dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1086,6 +1090,7 @@ Happy coding!
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmehlan/Dsa/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikhilmehlan/Dsa/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilmehlan/Dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/nikhilmehlan/Dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
